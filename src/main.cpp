@@ -45,7 +45,7 @@ int validatedctres () ;
 int dcttestmain(int argc, char **argv);
 int displayimage(){
 	Mat image;
-	char *pSampleImageFpath = "./data/sample_0.png.png";
+	const char *pSampleImageFpath = "./data/sample_0.png.png";
 	image = imread(pSampleImageFpath, CV_LOAD_IMAGE_COLOR);
 
 	if(! image.data )                              // Check for invalid input

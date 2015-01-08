@@ -121,7 +121,7 @@ extern "C"
     void LoadBmpAsGray(char *FileName, int Stride, ROI ImSize, byte *Img);
     void LoadBmpAsGray2(char *FileName, int Stride, ROI ImSize, byte *Img);
     void LoadBmpAsGray3(char *FileName, int Stride, ROI ImSize, float *Img);
-    void LoadBmpAsGray4(char *FileName, int Stride, ROI ImSize, byte *Img);
+    void LoadBmpAsGray4(const char *FileName, int Stride, ROI ImSize, byte *Img);
     void DumpBmpAsGray(char *FileName, byte *Img, int Stride, ROI ImSize);
     void DumpBlockF(float *PlaneF, int StrideF, char *Fname);
     void DumpBlock(byte *Plane, int Stride, char *Fname);

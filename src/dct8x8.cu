@@ -183,7 +183,7 @@ float WrapperGold2(byte *ImgSrc, byte *ImgDst, int Stride, ROI Size)
  *
  * \return Execution time in milliseconds
  */
-void writeToTextFile(char *pfilename,float *ImgDctF, int ImgDctFStride,int width,int height){
+void writeToTextFile(const char *pfilename,float *ImgDctF, int ImgDctFStride,int width,int height){
 	ofstream textfile;
 	textfile.open (pfilename);
 	float min=0,max=0;

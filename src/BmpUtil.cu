@@ -357,7 +357,7 @@ int getvalueatxyposition(string text){
 	printf("!!!errror in file!!!!\n");
 	return -1;
 }
-void LoadBmpAsGray4(char *FileName, int Stride, ROI ImSize, byte *Img)
+void LoadBmpAsGray4(const char *FileName, int Stride, ROI ImSize, byte *Img)
 {
 	std::ifstream textfile(FileName);
 	std::string str;
