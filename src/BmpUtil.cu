@@ -355,11 +355,16 @@ int getvalueatxyposition(string text){
 		return atoi(s.c_str());
 	}
 	printf("!!!errror in file!!!!\n");
+	throw 21;
 	return -1;
 }
 void LoadBmpAsGray4(const char *FileName, int Stride, ROI ImSize, byte *Img)
 {
 	std::ifstream textfile(FileName);
+	if(!textfile){
+		printf("can't locate the file %s \n", FileName);
+		throw 20;
+	}
 	std::string str;
 	for (int y= 0; y< ImSize.height; y++)
 	{
