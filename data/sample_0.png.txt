@@ -17775,7 +17775,7 @@ x=93,y=170, value = 2
 x=94,y=170, value = 0
 x=95,y=170, value = 0
 x=96,y=170, value = 2
-x=97,y=170, value = 0
+x=97,y=170, value = 2
 x=98,y=170, value = 0
 x=99,y=170, value = 1
 x=100,y=170, value = 0
@@ -17866,7 +17866,7 @@ x=80,y=171, value = 0
 x=81,y=171, value = 3
 x=82,y=171, value = 3
 x=83,y=171, value = 0
-x=84,y=171, value = 5
+x=84,y=171, value = 0
 x=85,y=171, value = 0
 x=86,y=171, value = 0
 x=87,y=171, value = 0
@@ -17935,7 +17935,7 @@ x=45,y=172, value = 0
 x=46,y=172, value = 0
 x=47,y=172, value = 0
 x=48,y=172, value = 0
-x=49,y=172, value = 5
+x=49,y=172, value = 0
 x=50,y=172, value = 2
 x=51,y=172, value = 0
 x=52,y=172, value = 0
@@ -18650,7 +18650,7 @@ x=32,y=179, value = 0
 x=33,y=179, value = 0
 x=34,y=179, value = 0
 x=35,y=179, value = 0
-x=36,y=179, value = 5
+x=36,y=179, value = 0
 x=37,y=179, value = 0
 x=38,y=179, value = 0
 x=39,y=179, value = 0
@@ -19046,7 +19046,7 @@ x=12,y=183, value = 0
 x=13,y=183, value = 0
 x=14,y=183, value = 6
 x=15,y=183, value = 7
-x=16,y=183, value = 5
+x=16,y=183, value = 0
 x=17,y=183, value = 0
 x=18,y=183, value = 0
 x=19,y=183, value = 0
@@ -19079,7 +19079,7 @@ x=45,y=183, value = 0
 x=46,y=183, value = 0
 x=47,y=183, value = 0
 x=48,y=183, value = 5
-x=49,y=183, value = 0
+x=49,y=183, value = 2
 x=50,y=183, value = 0
 x=51,y=183, value = 0
 x=52,y=183, value = 0
@@ -19165,7 +19165,7 @@ x=27,y=184, value = 0
 x=28,y=184, value = 0
 x=29,y=184, value = 34
 x=30,y=184, value = 23
-x=31,y=184, value = 0
+x=31,y=184, value = 5
 x=32,y=184, value = 0
 x=33,y=184, value = 0
 x=34,y=184, value = 3
@@ -19199,7 +19199,7 @@ x=61,y=184, value = 0
 x=62,y=184, value = 0
 x=63,y=184, value = 0
 x=64,y=184, value = 0
-x=65,y=184, value = 0
+x=65,y=184, value = 2
 x=66,y=184, value = 0
 x=67,y=184, value = 0
 x=68,y=184, value = 0
@@ -19263,7 +19263,7 @@ x=21,y=185, value = 0
 x=22,y=185, value = 0
 x=23,y=185, value = 0
 x=24,y=185, value = 8
-x=25,y=185, value = 0
+x=25,y=185, value = 2
 x=26,y=185, value = 0
 x=27,y=185, value = 0
 x=28,y=185, value = 0
@@ -19286,7 +19286,7 @@ x=44,y=185, value = 0
 x=45,y=185, value = 0
 x=46,y=185, value = 0
 x=47,y=185, value = 0
-x=48,y=185, value = 5
+x=48,y=185, value = 0
 x=49,y=185, value = 0
 x=50,y=185, value = 0
 x=51,y=185, value = 0
@@ -19507,7 +19507,7 @@ x=57,y=187, value = 0
 x=58,y=187, value = 0
 x=59,y=187, value = 0
 x=60,y=187, value = 4
-x=61,y=187, value = 5
+x=61,y=187, value = 0
 x=62,y=187, value = 0
 x=63,y=187, value = 0
 x=64,y=187, value = 3
@@ -19542,7 +19542,7 @@ x=92,y=187, value = 0
 x=93,y=187, value = 0
 x=94,y=187, value = 0
 x=95,y=187, value = 0
-x=96,y=187, value = 10
+x=96,y=187, value = 0
 x=97,y=187, value = 0
 x=98,y=187, value = 0
 x=99,y=187, value = 0
@@ -19818,7 +19818,7 @@ x=56,y=190, value = 0
 x=57,y=190, value = 0
 x=58,y=190, value = 0
 x=59,y=190, value = 0
-x=60,y=190, value = 20
+x=60,y=190, value = 0
 x=61,y=190, value = 0
 x=62,y=190, value = 0
 x=63,y=190, value = 21
@@ -19926,7 +19926,7 @@ x=60,y=191, value = 0
 x=61,y=191, value = 0
 x=62,y=191, value = 0
 x=63,y=191, value = 16
-x=64,y=191, value = 10
+x=64,y=191, value = 0
 x=65,y=191, value = 0
 x=66,y=191, value = 0
 x=67,y=191, value = 0
@@ -19998,7 +19998,7 @@ x=28,y=192, value = 0
 x=29,y=192, value = 0
 x=30,y=192, value = 0
 x=31,y=192, value = 0
-x=32,y=192, value = 0
+x=32,y=192, value = 5
 x=33,y=192, value = 5
 x=34,y=192, value = 0
 x=35,y=192, value = 0
@@ -20144,7 +20144,7 @@ x=70,y=193, value = 0
 x=71,y=193, value = 0
 x=72,y=193, value = 0
 x=73,y=193, value = 4
-x=74,y=193, value = 0
+x=74,y=193, value = 5
 x=75,y=193, value = 0
 x=76,y=193, value = 0
 x=77,y=193, value = 0
@@ -20346,7 +20346,7 @@ x=64,y=195, value = 0
 x=65,y=195, value = 0
 x=66,y=195, value = 0
 x=67,y=195, value = 0
-x=68,y=195, value = 0
+x=68,y=195, value = 2
 x=69,y=195, value = 0
 x=70,y=195, value = 0
 x=71,y=195, value = 0
@@ -20438,7 +20438,7 @@ x=52,y=196, value = 0
 x=53,y=196, value = 0
 x=54,y=196, value = 0
 x=55,y=196, value = 0
-x=56,y=196, value = 17
+x=56,y=196, value = 0
 x=57,y=196, value = 0
 x=58,y=196, value = 0
 x=59,y=196, value = 0
@@ -20465,7 +20465,7 @@ x=79,y=196, value = 0
 x=80,y=196, value = 0
 x=81,y=196, value = 0
 x=82,y=196, value = 0
-x=83,y=196, value = 0
+x=83,y=196, value = 2
 x=84,y=196, value = 0
 x=85,y=196, value = 0
 x=86,y=196, value = 0
@@ -20881,7 +20881,7 @@ x=79,y=200, value = 0
 x=80,y=200, value = 4
 x=81,y=200, value = 0
 x=82,y=200, value = 0
-x=83,y=200, value = 0
+x=83,y=200, value = 2
 x=84,y=200, value = 0
 x=85,y=200, value = 0
 x=86,y=200, value = 3
@@ -21070,7 +21070,7 @@ x=60,y=202, value = 0
 x=61,y=202, value = 0
 x=62,y=202, value = 0
 x=63,y=202, value = 0
-x=64,y=202, value = 0
+x=64,y=202, value = 2
 x=65,y=202, value = 0
 x=66,y=202, value = 0
 x=67,y=202, value = 0
@@ -21084,7 +21084,7 @@ x=74,y=202, value = 3
 x=75,y=202, value = 0
 x=76,y=202, value = 0
 x=77,y=202, value = 4
-x=78,y=202, value = 0
+x=78,y=202, value = 5
 x=79,y=202, value = 0
 x=80,y=202, value = 0
 x=81,y=202, value = 0
@@ -21170,7 +21170,7 @@ x=56,y=203, value = 0
 x=57,y=203, value = 0
 x=58,y=203, value = 5
 x=59,y=203, value = 4
-x=60,y=203, value = 0
+x=60,y=203, value = 2
 x=61,y=203, value = 0
 x=62,y=203, value = 0
 x=63,y=203, value = 0
@@ -21225,7 +21225,7 @@ x=7,y=204, value = 0
 x=8,y=204, value = 0
 x=9,y=204, value = 0
 x=10,y=204, value = 2
-x=11,y=204, value = 0
+x=11,y=204, value = 2
 x=12,y=204, value = 0
 x=13,y=204, value = 0
 x=14,y=204, value = 0
@@ -21268,7 +21268,7 @@ x=50,y=204, value = 0
 x=51,y=204, value = 0
 x=52,y=204, value = 0
 x=53,y=204, value = 2
-x=54,y=204, value = 0
+x=54,y=204, value = 2
 x=55,y=204, value = 0
 x=56,y=204, value = 0
 x=57,y=204, value = 0
@@ -21365,7 +21365,7 @@ x=43,y=205, value = 0
 x=44,y=205, value = 0
 x=45,y=205, value = 3
 x=46,y=205, value = 4
-x=47,y=205, value = 0
+x=47,y=205, value = 2
 x=48,y=205, value = 0
 x=49,y=205, value = 0
 x=50,y=205, value = 0
@@ -21424,7 +21424,7 @@ x=102,y=205, value = 1
 x=103,y=205, value = 0
 x=0,y=206, value = 0
 x=1,y=206, value = 0
-x=2,y=206, value = 0
+x=2,y=206, value = 2
 x=3,y=206, value = 0
 x=4,y=206, value = 0
 x=5,y=206, value = 0
@@ -21501,7 +21501,7 @@ x=75,y=206, value = 4
 x=76,y=206, value = 0
 x=77,y=206, value = 0
 x=78,y=206, value = 0
-x=79,y=206, value = 0
+x=79,y=206, value = 2
 x=80,y=206, value = 0
 x=81,y=206, value = 0
 x=82,y=206, value = 0
@@ -21554,7 +21554,7 @@ x=24,y=207, value = 0
 x=25,y=207, value = 0
 x=26,y=207, value = 0
 x=27,y=207, value = 0
-x=28,y=207, value = 5
+x=28,y=207, value = 0
 x=29,y=207, value = 0
 x=30,y=207, value = 0
 x=31,y=207, value = 0
@@ -21613,9 +21613,9 @@ x=83,y=207, value = 0
 x=84,y=207, value = 0
 x=85,y=207, value = 0
 x=86,y=207, value = 0
-x=87,y=207, value = 5
+x=87,y=207, value = 0
 x=88,y=207, value = 10
-x=89,y=207, value = 10
+x=89,y=207, value = 0
 x=90,y=207, value = 0
 x=91,y=207, value = 0
 x=92,y=207, value = 0
@@ -21639,7 +21639,7 @@ x=5,y=208, value = 0
 x=6,y=208, value = 0
 x=7,y=208, value = 0
 x=8,y=208, value = 2
-x=9,y=208, value = 0
+x=9,y=208, value = 2
 x=10,y=208, value = 0
 x=11,y=208, value = 0
 x=12,y=208, value = 0
@@ -21777,7 +21777,7 @@ x=39,y=209, value = 0
 x=40,y=209, value = 0
 x=41,y=209, value = 0
 x=42,y=209, value = 0
-x=43,y=209, value = 0
+x=43,y=209, value = 2
 x=44,y=209, value = 3
 x=45,y=209, value = 0
 x=46,y=209, value = 0
@@ -21864,7 +21864,7 @@ x=22,y=210, value = 0
 x=23,y=210, value = 0
 x=24,y=210, value = 0
 x=25,y=210, value = 0
-x=26,y=210, value = 0
+x=26,y=210, value = 2
 x=27,y=210, value = 0
 x=28,y=210, value = 0
 x=29,y=210, value = 0
@@ -22094,9 +22094,9 @@ x=44,y=212, value = 0
 x=45,y=212, value = 0
 x=46,y=212, value = 0
 x=47,y=212, value = 0
-x=48,y=212, value = 0
+x=48,y=212, value = 2
 x=49,y=212, value = 0
-x=50,y=212, value = 0
+x=50,y=212, value = 2
 x=51,y=212, value = 0
 x=52,y=212, value = 0
 x=53,y=212, value = 0
@@ -22115,7 +22115,7 @@ x=65,y=212, value = 0
 x=66,y=212, value = 0
 x=67,y=212, value = 0
 x=68,y=212, value = 3
-x=69,y=212, value = 0
+x=69,y=212, value = 5
 x=70,y=212, value = 0
 x=71,y=212, value = 0
 x=72,y=212, value = 0
@@ -22164,7 +22164,7 @@ x=10,y=213, value = 0
 x=11,y=213, value = 0
 x=12,y=213, value = 4
 x=13,y=213, value = 6
-x=14,y=213, value = 0
+x=14,y=213, value = 5
 x=15,y=213, value = 0
 x=16,y=213, value = 0
 x=17,y=213, value = 0
@@ -22252,7 +22252,7 @@ x=98,y=213, value = 0
 x=99,y=213, value = 4
 x=100,y=213, value = 6
 x=101,y=213, value = 0
-x=102,y=213, value = 0
+x=102,y=213, value = 2
 x=103,y=213, value = 0
 x=0,y=214, value = 0
 x=1,y=214, value = 0
@@ -22497,7 +22497,7 @@ x=31,y=216, value = 0
 x=32,y=216, value = 0
 x=33,y=216, value = 0
 x=34,y=216, value = 4
-x=35,y=216, value = 0
+x=35,y=216, value = 2
 x=36,y=216, value = 0
 x=37,y=216, value = 0
 x=38,y=216, value = 0
@@ -22646,7 +22646,7 @@ x=76,y=217, value = 0
 x=77,y=217, value = 0
 x=78,y=217, value = 0
 x=79,y=217, value = 0
-x=80,y=217, value = 13
+x=80,y=217, value = 0
 x=81,y=217, value = 0
 x=82,y=217, value = 0
 x=83,y=217, value = 0
@@ -22913,7 +22913,7 @@ x=31,y=220, value = 0
 x=32,y=220, value = 0
 x=33,y=220, value = 0
 x=34,y=220, value = 0
-x=35,y=220, value = 0
+x=35,y=220, value = 5
 x=36,y=220, value = 4
 x=37,y=220, value = 0
 x=38,y=220, value = 0
@@ -22950,7 +22950,7 @@ x=68,y=220, value = 0
 x=69,y=220, value = 0
 x=70,y=220, value = 0
 x=71,y=220, value = 0
-x=72,y=220, value = 0
+x=72,y=220, value = 5
 x=73,y=220, value = 0
 x=74,y=220, value = 0
 x=75,y=220, value = 0
@@ -22973,7 +22973,7 @@ x=91,y=220, value = 21
 x=92,y=220, value = 0
 x=93,y=220, value = 0
 x=94,y=220, value = 0
-x=95,y=220, value = 0
+x=95,y=220, value = 2
 x=96,y=220, value = 0
 x=97,y=220, value = 0
 x=98,y=220, value = 8
@@ -22986,7 +22986,7 @@ x=0,y=221, value = 6
 x=1,y=221, value = 0
 x=2,y=221, value = 0
 x=3,y=221, value = 16
-x=4,y=221, value = 5
+x=4,y=221, value = 0
 x=5,y=221, value = 6
 x=6,y=221, value = 3
 x=7,y=221, value = 0
@@ -23119,7 +23119,7 @@ x=29,y=222, value = 0
 x=30,y=222, value = 0
 x=31,y=222, value = 2
 x=32,y=222, value = 0
-x=33,y=222, value = 0
+x=33,y=222, value = 2
 x=34,y=222, value = 9
 x=35,y=222, value = 0
 x=36,y=222, value = 0
@@ -23294,7 +23294,7 @@ x=100,y=223, value = 0
 x=101,y=223, value = 0
 x=102,y=223, value = 0
 x=103,y=223, value = 0
-x=0,y=224, value = 5
+x=0,y=224, value = 0
 x=1,y=224, value = 9
 x=2,y=224, value = 0
 x=3,y=224, value = 21
@@ -23394,7 +23394,7 @@ x=96,y=224, value = 0
 x=97,y=224, value = 0
 x=98,y=224, value = 0
 x=99,y=224, value = 0
-x=100,y=224, value = 0
+x=100,y=224, value = 5
 x=101,y=224, value = 0
 x=102,y=224, value = 0
 x=103,y=224, value = 0
@@ -23616,7 +23616,7 @@ x=6,y=227, value = 0
 x=7,y=227, value = 0
 x=8,y=227, value = 0
 x=9,y=227, value = 0
-x=10,y=227, value = 0
+x=10,y=227, value = 2
 x=11,y=227, value = 0
 x=12,y=227, value = 0
 x=13,y=227, value = 0
@@ -23649,7 +23649,7 @@ x=39,y=227, value = 71
 x=40,y=227, value = 48
 x=41,y=227, value = 0
 x=42,y=227, value = 0
-x=43,y=227, value = 10
+x=43,y=227, value = 0
 x=44,y=227, value = 0
 x=45,y=227, value = 0
 x=46,y=227, value = 0
@@ -23805,7 +23805,7 @@ x=91,y=228, value = 0
 x=92,y=228, value = 0
 x=93,y=228, value = 0
 x=94,y=228, value = 0
-x=95,y=228, value = 0
+x=95,y=228, value = 5
 x=96,y=228, value = 0
 x=97,y=228, value = 0
 x=98,y=228, value = 0
@@ -23923,7 +23923,7 @@ x=1,y=230, value = 0
 x=2,y=230, value = 0
 x=3,y=230, value = 5
 x=4,y=230, value = 9
-x=5,y=230, value = 5
+x=5,y=230, value = 0
 x=6,y=230, value = 0
 x=7,y=230, value = 0
 x=8,y=230, value = 0
@@ -24183,7 +24183,7 @@ x=53,y=232, value = 0
 x=54,y=232, value = 0
 x=55,y=232, value = 0
 x=56,y=232, value = 0
-x=57,y=232, value = 0
+x=57,y=232, value = 2
 x=58,y=232, value = 0
 x=59,y=232, value = 0
 x=60,y=232, value = 3
@@ -24384,7 +24384,7 @@ x=46,y=234, value = 0
 x=47,y=234, value = 0
 x=48,y=234, value = 0
 x=49,y=234, value = 6
-x=50,y=234, value = 5
+x=50,y=234, value = 0
 x=51,y=234, value = 2
 x=52,y=234, value = 0
 x=53,y=234, value = 0
@@ -24602,7 +24602,7 @@ x=56,y=236, value = 0
 x=57,y=236, value = 0
 x=58,y=236, value = 0
 x=59,y=236, value = 0
-x=60,y=236, value = 5
+x=60,y=236, value = 0
 x=61,y=236, value = 4
 x=62,y=236, value = 0
 x=63,y=236, value = 0
@@ -24884,7 +24884,7 @@ x=26,y=239, value = 0
 x=27,y=239, value = 0
 x=28,y=239, value = 0
 x=29,y=239, value = 0
-x=30,y=239, value = 0
+x=30,y=239, value = 2
 x=31,y=239, value = 6
 x=32,y=239, value = 9
 x=33,y=239, value = 55
@@ -24908,7 +24908,7 @@ x=50,y=239, value = 0
 x=51,y=239, value = 0
 x=52,y=239, value = 0
 x=53,y=239, value = 0
-x=54,y=239, value = 0
+x=54,y=239, value = 5
 x=55,y=239, value = 0
 x=56,y=239, value = 0
 x=57,y=239, value = 0
@@ -25049,7 +25049,7 @@ x=87,y=240, value = 7
 x=88,y=240, value = 8
 x=89,y=240, value = 0
 x=90,y=240, value = 0
-x=91,y=240, value = 5
+x=91,y=240, value = 0
 x=92,y=240, value = 0
 x=93,y=240, value = 0
 x=94,y=240, value = 0
@@ -25117,7 +25117,7 @@ x=51,y=241, value = 0
 x=52,y=241, value = 0
 x=53,y=241, value = 0
 x=54,y=241, value = 0
-x=55,y=241, value = 5
+x=55,y=241, value = 0
 x=56,y=241, value = 0
 x=57,y=241, value = 0
 x=58,y=241, value = 3
@@ -25159,7 +25159,7 @@ x=93,y=241, value = 0
 x=94,y=241, value = 0
 x=95,y=241, value = 0
 x=96,y=241, value = 33
-x=97,y=241, value = 5
+x=97,y=241, value = 0
 x=98,y=241, value = 4
 x=99,y=241, value = 0
 x=100,y=241, value = 0
@@ -25221,7 +25221,7 @@ x=51,y=242, value = 0
 x=52,y=242, value = 0
 x=53,y=242, value = 0
 x=54,y=242, value = 0
-x=55,y=242, value = 0
+x=55,y=242, value = 2
 x=56,y=242, value = 0
 x=57,y=242, value = 0
 x=58,y=242, value = 0
@@ -25264,7 +25264,7 @@ x=94,y=242, value = 0
 x=95,y=242, value = 0
 x=96,y=242, value = 0
 x=97,y=242, value = 8
-x=98,y=242, value = 0
+x=98,y=242, value = 2
 x=99,y=242, value = 0
 x=100,y=242, value = 1
 x=101,y=242, value = 0
@@ -25466,14 +25466,14 @@ x=88,y=244, value = 2
 x=89,y=244, value = 0
 x=90,y=244, value = 0
 x=91,y=244, value = 18
-x=92,y=244, value = 5
+x=92,y=244, value = 0
 x=93,y=244, value = 0
 x=94,y=244, value = 0
 x=95,y=244, value = 0
 x=96,y=244, value = 0
 x=97,y=244, value = 0
 x=98,y=244, value = 0
-x=99,y=244, value = 0
+x=99,y=244, value = 2
 x=100,y=244, value = 0
 x=101,y=244, value = 0
 x=102,y=244, value = 0
@@ -26259,7 +26259,7 @@ x=49,y=252, value = 0
 x=50,y=252, value = 0
 x=51,y=252, value = 0
 x=52,y=252, value = 0
-x=53,y=252, value = 0
+x=53,y=252, value = 5
 x=54,y=252, value = 7
 x=55,y=252, value = 0
 x=56,y=252, value = 0
@@ -26354,7 +26354,7 @@ x=40,y=253, value = 0
 x=41,y=253, value = 0
 x=42,y=253, value = 0
 x=43,y=253, value = 0
-x=44,y=253, value = 5
+x=44,y=253, value = 0
 x=45,y=253, value = 0
 x=46,y=253, value = 0
 x=47,y=253, value = 0
@@ -26374,7 +26374,7 @@ x=60,y=253, value = 0
 x=61,y=253, value = 0
 x=62,y=253, value = 16
 x=63,y=253, value = 12
-x=64,y=253, value = 0
+x=64,y=253, value = 2
 x=65,y=253, value = 0
 x=66,y=253, value = 81
 x=67,y=253, value = 77
@@ -26717,7 +26717,7 @@ x=91,y=256, value = 0
 x=92,y=256, value = 0
 x=93,y=256, value = 0
 x=94,y=256, value = 0
-x=95,y=256, value = 10
+x=95,y=256, value = 0
 x=96,y=256, value = 5
 x=97,y=256, value = 0
 x=98,y=256, value = 0
@@ -27171,12 +27171,12 @@ x=25,y=261, value = 0
 x=26,y=261, value = 0
 x=27,y=261, value = 0
 x=28,y=261, value = 0
-x=29,y=261, value = 0
+x=29,y=261, value = 2
 x=30,y=261, value = 0
 x=31,y=261, value = 0
 x=32,y=261, value = 0
 x=33,y=261, value = 0
-x=34,y=261, value = 0
+x=34,y=261, value = 5
 x=35,y=261, value = 0
 x=36,y=261, value = 0
 x=37,y=261, value = 0
@@ -27323,7 +27323,7 @@ x=73,y=262, value = 0
 x=74,y=262, value = 0
 x=75,y=262, value = 0
 x=76,y=262, value = 0
-x=77,y=262, value = 0
+x=77,y=262, value = 2
 x=78,y=262, value = 2
 x=79,y=262, value = 1
 x=80,y=262, value = 0
@@ -27345,7 +27345,7 @@ x=95,y=262, value = 0
 x=96,y=262, value = 0
 x=97,y=262, value = 0
 x=98,y=262, value = 0
-x=99,y=262, value = 0
+x=99,y=262, value = 2
 x=100,y=262, value = 0
 x=101,y=262, value = 0
 x=102,y=262, value = 0
@@ -27640,7 +27640,7 @@ x=78,y=265, value = 3
 x=79,y=265, value = 0
 x=80,y=265, value = 0
 x=81,y=265, value = 0
-x=82,y=265, value = 5
+x=82,y=265, value = 0
 x=83,y=265, value = 0
 x=84,y=265, value = 0
 x=85,y=265, value = 0
@@ -27797,7 +27797,7 @@ x=27,y=267, value = 0
 x=28,y=267, value = 0
 x=29,y=267, value = 0
 x=30,y=267, value = 0
-x=31,y=267, value = 0
+x=31,y=267, value = 2
 x=32,y=267, value = 0
 x=33,y=267, value = 0
 x=34,y=267, value = 0
@@ -28015,8 +28015,8 @@ x=37,y=269, value = 0
 x=38,y=269, value = 0
 x=39,y=269, value = 0
 x=40,y=269, value = 0
-x=41,y=269, value = 0
-x=42,y=269, value = 0
+x=41,y=269, value = 2
+x=42,y=269, value = 2
 x=43,y=269, value = 0
 x=44,y=269, value = 0
 x=45,y=269, value = 0
@@ -28061,7 +28061,7 @@ x=83,y=269, value = 105
 x=84,y=269, value = 0
 x=85,y=269, value = 0
 x=86,y=269, value = 0
-x=87,y=269, value = 0
+x=87,y=269, value = 23
 x=88,y=269, value = 0
 x=89,y=269, value = 0
 x=90,y=269, value = 0
@@ -28443,7 +28443,7 @@ x=49,y=273, value = 3
 x=50,y=273, value = 0
 x=51,y=273, value = 0
 x=52,y=273, value = 4
-x=53,y=273, value = 0
+x=53,y=273, value = 2
 x=54,y=273, value = 0
 x=55,y=273, value = 1
 x=56,y=273, value = 0
@@ -28456,7 +28456,7 @@ x=62,y=273, value = 116
 x=63,y=273, value = 86
 x=64,y=273, value = 0
 x=65,y=273, value = 7
-x=66,y=273, value = 0
+x=66,y=273, value = 2
 x=67,y=273, value = 0
 x=68,y=273, value = 0
 x=69,y=273, value = 0
@@ -28592,7 +28592,7 @@ x=94,y=274, value = 0
 x=95,y=274, value = 0
 x=96,y=274, value = 0
 x=97,y=274, value = 0
-x=98,y=274, value = 0
+x=98,y=274, value = 2
 x=99,y=274, value = 0
 x=100,y=274, value = 0
 x=101,y=274, value = 0
@@ -28635,8 +28635,8 @@ x=33,y=275, value = 0
 x=34,y=275, value = 0
 x=35,y=275, value = 0
 x=36,y=275, value = 0
-x=37,y=275, value = 0
-x=38,y=275, value = 0
+x=37,y=275, value = 2
+x=38,y=275, value = 2
 x=39,y=275, value = 0
 x=40,y=275, value = 0
 x=41,y=275, value = 0
@@ -28696,7 +28696,7 @@ x=94,y=275, value = 0
 x=95,y=275, value = 0
 x=96,y=275, value = 0
 x=97,y=275, value = 1
-x=98,y=275, value = 0
+x=98,y=275, value = 2
 x=99,y=275, value = 0
 x=100,y=275, value = 0
 x=101,y=275, value = 0
@@ -28757,7 +28757,7 @@ x=51,y=276, value = 3
 x=52,y=276, value = 0
 x=53,y=276, value = 0
 x=54,y=276, value = 0
-x=55,y=276, value = 0
+x=55,y=276, value = 2
 x=56,y=276, value = 3
 x=57,y=276, value = 0
 x=58,y=276, value = 0
@@ -28845,7 +28845,7 @@ x=35,y=277, value = 0
 x=36,y=277, value = 0
 x=37,y=277, value = 0
 x=38,y=277, value = 3
-x=39,y=277, value = 0
+x=39,y=277, value = 2
 x=40,y=277, value = 0
 x=41,y=277, value = 0
 x=42,y=277, value = 0
@@ -29158,7 +29158,7 @@ x=36,y=280, value = 0
 x=37,y=280, value = 0
 x=38,y=280, value = 0
 x=39,y=280, value = 0
-x=40,y=280, value = 0
+x=40,y=280, value = 2
 x=41,y=280, value = 7
 x=42,y=280, value = 0
 x=43,y=280, value = 0
@@ -29528,7 +29528,7 @@ x=94,y=283, value = 0
 x=95,y=283, value = 0
 x=96,y=283, value = 0
 x=97,y=283, value = 2
-x=98,y=283, value = 0
+x=98,y=283, value = 2
 x=99,y=283, value = 0
 x=100,y=283, value = 0
 x=101,y=283, value = 0
@@ -29552,7 +29552,7 @@ x=14,y=284, value = 0
 x=15,y=284, value = 0
 x=16,y=284, value = 0
 x=17,y=284, value = 0
-x=18,y=284, value = 0
+x=18,y=284, value = 2
 x=19,y=284, value = 2
 x=20,y=284, value = 0
 x=21,y=284, value = 0
@@ -29652,7 +29652,7 @@ x=10,y=285, value = 0
 x=11,y=285, value = 0
 x=12,y=285, value = 0
 x=13,y=285, value = 0
-x=14,y=285, value = 0
+x=14,y=285, value = 2
 x=15,y=285, value = 0
 x=16,y=285, value = 0
 x=17,y=285, value = 0
@@ -29735,7 +29735,7 @@ x=93,y=285, value = 0
 x=94,y=285, value = 0
 x=95,y=285, value = 0
 x=96,y=285, value = 0
-x=97,y=285, value = 5
+x=97,y=285, value = 0
 x=98,y=285, value = 3
 x=99,y=285, value = 0
 x=100,y=285, value = 0
@@ -29782,7 +29782,7 @@ x=36,y=286, value = 0
 x=37,y=286, value = 0
 x=38,y=286, value = 0
 x=39,y=286, value = 0
-x=40,y=286, value = 0
+x=40,y=286, value = 2
 x=41,y=286, value = 0
 x=42,y=286, value = 0
 x=43,y=286, value = 0
@@ -30094,7 +30094,7 @@ x=36,y=289, value = 0
 x=37,y=289, value = 0
 x=38,y=289, value = 0
 x=39,y=289, value = 0
-x=40,y=289, value = 0
+x=40,y=289, value = 2
 x=41,y=289, value = 0
 x=42,y=289, value = 0
 x=43,y=289, value = 0
@@ -30127,7 +30127,7 @@ x=69,y=289, value = 0
 x=70,y=289, value = 0
 x=71,y=289, value = 0
 x=72,y=289, value = 0
-x=73,y=289, value = 0
+x=73,y=289, value = 2
 x=74,y=289, value = 6
 x=75,y=289, value = 0
 x=76,y=289, value = 0
@@ -30231,7 +30231,7 @@ x=69,y=290, value = 0
 x=70,y=290, value = 0
 x=71,y=290, value = 0
 x=72,y=290, value = 0
-x=73,y=290, value = 0
+x=73,y=290, value = 2
 x=74,y=290, value = 5
 x=75,y=290, value = 0
 x=76,y=290, value = 0
@@ -30375,7 +30375,7 @@ x=5,y=292, value = 0
 x=6,y=292, value = 0
 x=7,y=292, value = 0
 x=8,y=292, value = 0
-x=9,y=292, value = 0
+x=9,y=292, value = 2
 x=10,y=292, value = 4
 x=11,y=292, value = 0
 x=12,y=292, value = 0
@@ -30460,7 +30460,7 @@ x=90,y=292, value = 0
 x=91,y=292, value = 0
 x=92,y=292, value = 0
 x=93,y=292, value = 0
-x=94,y=292, value = 0
+x=94,y=292, value = 2
 x=95,y=292, value = 1
 x=96,y=292, value = 0
 x=97,y=292, value = 0
@@ -30484,7 +30484,7 @@ x=10,y=293, value = 2
 x=11,y=293, value = 0
 x=12,y=293, value = 0
 x=13,y=293, value = 1
-x=14,y=293, value = 0
+x=14,y=293, value = 2
 x=15,y=293, value = 0
 x=16,y=293, value = 0
 x=17,y=293, value = 0
@@ -31500,7 +31500,7 @@ x=90,y=302, value = 0
 x=91,y=302, value = 0
 x=92,y=302, value = 1
 x=93,y=302, value = 4
-x=94,y=302, value = 0
+x=94,y=302, value = 2
 x=95,y=302, value = 0
 x=96,y=302, value = 0
 x=97,y=302, value = 0
@@ -31518,7 +31518,7 @@ x=4,y=303, value = 0
 x=5,y=303, value = 0
 x=6,y=303, value = 0
 x=7,y=303, value = 0
-x=8,y=303, value = 0
+x=8,y=303, value = 2
 x=9,y=303, value = 0
 x=10,y=303, value = 0
 x=11,y=303, value = 0
@@ -31581,7 +31581,7 @@ x=67,y=303, value = 0
 x=68,y=303, value = 0
 x=69,y=303, value = 0
 x=70,y=303, value = 0
-x=71,y=303, value = 0
+x=71,y=303, value = 2
 x=72,y=303, value = 0
 x=73,y=303, value = 0
 x=74,y=303, value = 0
@@ -31599,7 +31599,7 @@ x=85,y=303, value = 0
 x=86,y=303, value = 0
 x=87,y=303, value = 0
 x=88,y=303, value = 0
-x=89,y=303, value = 0
+x=89,y=303, value = 2
 x=90,y=303, value = 0
 x=91,y=303, value = 0
 x=92,y=303, value = 0
@@ -31672,7 +31672,7 @@ x=54,y=304, value = 0
 x=55,y=304, value = 0
 x=56,y=304, value = 0
 x=57,y=304, value = 5
-x=58,y=304, value = 0
+x=58,y=304, value = 2
 x=59,y=304, value = 0
 x=60,y=304, value = 0
 x=61,y=304, value = 1
@@ -31730,7 +31730,7 @@ x=8,y=305, value = 0
 x=9,y=305, value = 0
 x=10,y=305, value = 0
 x=11,y=305, value = 0
-x=12,y=305, value = 0
+x=12,y=305, value = 2
 x=13,y=305, value = 0
 x=14,y=305, value = 0
 x=15,y=305, value = 0
@@ -31744,7 +31744,7 @@ x=22,y=305, value = 0
 x=23,y=305, value = 0
 x=24,y=305, value = 0
 x=25,y=305, value = 0
-x=26,y=305, value = 0
+x=26,y=305, value = 2
 x=27,y=305, value = 4
 x=28,y=305, value = 4
 x=29,y=305, value = 0
@@ -31915,7 +31915,7 @@ x=89,y=306, value = 0
 x=90,y=306, value = 1
 x=91,y=306, value = 0
 x=92,y=306, value = 0
-x=93,y=306, value = 0
+x=93,y=306, value = 2
 x=94,y=306, value = 0
 x=95,y=306, value = 2
 x=96,y=306, value = 0
@@ -31923,7 +31923,7 @@ x=97,y=306, value = 0
 x=98,y=306, value = 0
 x=99,y=306, value = 0
 x=100,y=306, value = 0
-x=101,y=306, value = 0
+x=101,y=306, value = 2
 x=102,y=306, value = 0
 x=103,y=306, value = 0
 x=0,y=307, value = 0
@@ -31933,8 +31933,8 @@ x=3,y=307, value = 0
 x=4,y=307, value = 0
 x=5,y=307, value = 0
 x=6,y=307, value = 0
-x=7,y=307, value = 0
-x=8,y=307, value = 0
+x=7,y=307, value = 2
+x=8,y=307, value = 2
 x=9,y=307, value = 0
 x=10,y=307, value = 0
 x=11,y=307, value = 0
@@ -31961,7 +31961,7 @@ x=31,y=307, value = 0
 x=32,y=307, value = 0
 x=33,y=307, value = 0
 x=34,y=307, value = 0
-x=35,y=307, value = 0
+x=35,y=307, value = 2
 x=36,y=307, value = 0
 x=37,y=307, value = 0
 x=38,y=307, value = 0
@@ -32060,7 +32060,7 @@ x=26,y=308, value = 2
 x=27,y=308, value = 0
 x=28,y=308, value = 0
 x=29,y=308, value = 0
-x=30,y=308, value = 5
+x=30,y=308, value = 0
 x=31,y=308, value = 0
 x=32,y=308, value = 0
 x=33,y=308, value = 0
@@ -32144,8 +32144,8 @@ x=6,y=309, value = 0
 x=7,y=309, value = 0
 x=8,y=309, value = 0
 x=9,y=309, value = 0
-x=10,y=309, value = 0
-x=11,y=309, value = 0
+x=10,y=309, value = 2
+x=11,y=309, value = 2
 x=12,y=309, value = 1
 x=13,y=309, value = 0
 x=14,y=309, value = 0
@@ -32283,7 +32283,7 @@ x=41,y=310, value = 0
 x=42,y=310, value = 0
 x=43,y=310, value = 0
 x=44,y=310, value = 0
-x=45,y=310, value = 0
+x=45,y=310, value = 2
 x=46,y=310, value = 1
 x=47,y=310, value = 0
 x=48,y=310, value = 0
@@ -32489,7 +32489,7 @@ x=39,y=312, value = 0
 x=40,y=312, value = 0
 x=41,y=312, value = 0
 x=42,y=312, value = 0
-x=43,y=312, value = 0
+x=43,y=312, value = 2
 x=44,y=312, value = 0
 x=45,y=312, value = 0
 x=46,y=312, value = 0
@@ -32584,7 +32584,7 @@ x=30,y=313, value = 0
 x=31,y=313, value = 0
 x=32,y=313, value = 0
 x=33,y=313, value = 0
-x=34,y=313, value = 0
+x=34,y=313, value = 2
 x=35,y=313, value = 0
 x=36,y=313, value = 0
 x=37,y=313, value = 0
@@ -32649,7 +32649,7 @@ x=95,y=313, value = 0
 x=96,y=313, value = 0
 x=97,y=313, value = 0
 x=98,y=313, value = 0
-x=99,y=313, value = 0
+x=99,y=313, value = 2
 x=100,y=313, value = 0
 x=101,y=313, value = 0
 x=102,y=313, value = 0
@@ -32883,7 +32883,7 @@ x=17,y=316, value = 0
 x=18,y=316, value = 0
 x=19,y=316, value = 0
 x=20,y=316, value = 0
-x=21,y=316, value = 0
+x=21,y=316, value = 2
 x=22,y=316, value = 0
 x=23,y=316, value = 0
 x=24,y=316, value = 0
@@ -32972,8 +32972,8 @@ x=2,y=317, value = 0
 x=3,y=317, value = 0
 x=4,y=317, value = 0
 x=5,y=317, value = 0
-x=6,y=317, value = 0
-x=7,y=317, value = 0
+x=6,y=317, value = 2
+x=7,y=317, value = 2
 x=8,y=317, value = 0
 x=9,y=317, value = 0
 x=10,y=317, value = 0
@@ -33004,7 +33004,7 @@ x=34,y=317, value = 0
 x=35,y=317, value = 0
 x=36,y=317, value = 0
 x=37,y=317, value = 0
-x=38,y=317, value = 0
+x=38,y=317, value = 2
 x=39,y=317, value = 0
 x=40,y=317, value = 2
 x=41,y=317, value = 0
@@ -33031,7 +33031,7 @@ x=61,y=317, value = 0
 x=62,y=317, value = 0
 x=63,y=317, value = 0
 x=64,y=317, value = 0
-x=65,y=317, value = 0
+x=65,y=317, value = 2
 x=66,y=317, value = 3
 x=67,y=317, value = 1
 x=68,y=317, value = 0
@@ -33135,7 +33135,7 @@ x=61,y=318, value = 0
 x=62,y=318, value = 0
 x=63,y=318, value = 0
 x=64,y=318, value = 0
-x=65,y=318, value = 0
+x=65,y=318, value = 2
 x=66,y=318, value = 2
 x=67,y=318, value = 0
 x=68,y=318, value = 4
@@ -33253,7 +33253,7 @@ x=75,y=319, value = 0
 x=76,y=319, value = 0
 x=77,y=319, value = 0
 x=78,y=319, value = 0
-x=79,y=319, value = 0
+x=79,y=319, value = 2
 x=80,y=319, value = 3
 x=81,y=319, value = 0
 x=82,y=319, value = 0
@@ -33287,7 +33287,7 @@ x=5,y=320, value = 0
 x=6,y=320, value = 3
 x=7,y=320, value = 0
 x=8,y=320, value = 0
-x=9,y=320, value = 0
+x=9,y=320, value = 5
 x=10,y=320, value = 7
 x=11,y=320, value = 0
 x=12,y=320, value = 0
@@ -33376,8 +33376,8 @@ x=94,y=320, value = 0
 x=95,y=320, value = 0
 x=96,y=320, value = 0
 x=97,y=320, value = 0
-x=98,y=320, value = 0
-x=99,y=320, value = 0
+x=98,y=320, value = 2
+x=99,y=320, value = 2
 x=100,y=320, value = 0
 x=101,y=320, value = 0
 x=102,y=320, value = 0
@@ -33411,7 +33411,7 @@ x=25,y=321, value = 0
 x=26,y=321, value = 0
 x=27,y=321, value = 0
 x=28,y=321, value = 0
-x=29,y=321, value = 0
+x=29,y=321, value = 2
 x=30,y=321, value = 3
 x=31,y=321, value = 1
 x=32,y=321, value = 0
@@ -33473,14 +33473,14 @@ x=87,y=321, value = 0
 x=88,y=321, value = 0
 x=89,y=321, value = 0
 x=90,y=321, value = 0
-x=91,y=321, value = 0
+x=91,y=321, value = 2
 x=92,y=321, value = 3
 x=93,y=321, value = 0
 x=94,y=321, value = 3
 x=95,y=321, value = 0
 x=96,y=321, value = 0
-x=97,y=321, value = 0
-x=98,y=321, value = 0
+x=97,y=321, value = 2
+x=98,y=321, value = 2
 x=99,y=321, value = 2
 x=100,y=321, value = 0
 x=101,y=321, value = 0
@@ -33498,7 +33498,7 @@ x=8,y=322, value = 2
 x=9,y=322, value = 0
 x=10,y=322, value = 0
 x=11,y=322, value = 0
-x=12,y=322, value = 0
+x=12,y=322, value = 5
 x=13,y=322, value = 0
 x=14,y=322, value = 0
 x=15,y=322, value = 0
@@ -33515,7 +33515,7 @@ x=25,y=322, value = 0
 x=26,y=322, value = 0
 x=27,y=322, value = 0
 x=28,y=322, value = 0
-x=29,y=322, value = 0
+x=29,y=322, value = 2
 x=30,y=322, value = 3
 x=31,y=322, value = 1
 x=32,y=322, value = 0
@@ -33580,7 +33580,7 @@ x=90,y=322, value = 0
 x=91,y=322, value = 0
 x=92,y=322, value = 0
 x=93,y=322, value = 0
-x=94,y=322, value = 5
+x=94,y=322, value = 0
 x=95,y=322, value = 0
 x=96,y=322, value = 0
 x=97,y=322, value = 0
@@ -33656,7 +33656,7 @@ x=62,y=323, value = 0
 x=63,y=323, value = 0
 x=64,y=323, value = 0
 x=65,y=323, value = 0
-x=66,y=323, value = 0
+x=66,y=323, value = 2
 x=67,y=323, value = 0
 x=68,y=323, value = 0
 x=69,y=323, value = 0
@@ -33676,7 +33676,7 @@ x=82,y=323, value = 0
 x=83,y=323, value = 0
 x=84,y=323, value = 0
 x=85,y=323, value = 0
-x=86,y=323, value = 0
+x=86,y=323, value = 2
 x=87,y=323, value = 0
 x=88,y=323, value = 0
 x=89,y=323, value = 0
@@ -33746,7 +33746,7 @@ x=48,y=324, value = 3
 x=49,y=324, value = 1
 x=50,y=324, value = 0
 x=51,y=324, value = 0
-x=52,y=324, value = 0
+x=52,y=324, value = 2
 x=53,y=324, value = 1
 x=54,y=324, value = 0
 x=55,y=324, value = 0
@@ -33889,7 +33889,7 @@ x=87,y=325, value = 0
 x=88,y=325, value = 0
 x=89,y=325, value = 0
 x=90,y=325, value = 0
-x=91,y=325, value = 0
+x=91,y=325, value = 2
 x=92,y=325, value = 4
 x=93,y=325, value = 3
 x=94,y=325, value = 0
@@ -33917,7 +33917,7 @@ x=11,y=326, value = 0
 x=12,y=326, value = 0
 x=13,y=326, value = 0
 x=14,y=326, value = 0
-x=15,y=326, value = 0
+x=15,y=326, value = 2
 x=16,y=326, value = 0
 x=17,y=326, value = 0
 x=18,y=326, value = 0
@@ -34240,7 +34240,7 @@ x=22,y=329, value = 0
 x=23,y=329, value = 0
 x=24,y=329, value = 0
 x=25,y=329, value = 0
-x=26,y=329, value = 0
+x=26,y=329, value = 2
 x=27,y=329, value = 0
 x=28,y=329, value = 0
 x=29,y=329, value = 1
@@ -34343,7 +34343,7 @@ x=21,y=330, value = 0
 x=22,y=330, value = 0
 x=23,y=330, value = 0
 x=24,y=330, value = 2
-x=25,y=330, value = 0
+x=25,y=330, value = 2
 x=26,y=330, value = 0
 x=27,y=330, value = 0
 x=28,y=330, value = 0
@@ -34388,7 +34388,7 @@ x=66,y=330, value = 0
 x=67,y=330, value = 0
 x=68,y=330, value = 0
 x=69,y=330, value = 3
-x=70,y=330, value = 0
+x=70,y=330, value = 2
 x=71,y=330, value = 0
 x=72,y=330, value = 0
 x=73,y=330, value = 0
@@ -34556,7 +34556,7 @@ x=26,y=332, value = 0
 x=27,y=332, value = 0
 x=28,y=332, value = 0
 x=29,y=332, value = 0
-x=30,y=332, value = 0
+x=30,y=332, value = 2
 x=31,y=332, value = 0
 x=32,y=332, value = 0
 x=33,y=332, value = 2
@@ -34675,12 +34675,12 @@ x=41,y=333, value = 0
 x=42,y=333, value = 1
 x=43,y=333, value = 1
 x=44,y=333, value = 3
-x=45,y=333, value = 0
+x=45,y=333, value = 2
 x=46,y=333, value = 0
 x=47,y=333, value = 0
 x=48,y=333, value = 0
 x=49,y=333, value = 0
-x=50,y=333, value = 0
+x=50,y=333, value = 2
 x=51,y=333, value = 0
 x=52,y=333, value = 0
 x=53,y=333, value = 0
@@ -34697,7 +34697,7 @@ x=63,y=333, value = 0
 x=64,y=333, value = 0
 x=65,y=333, value = 0
 x=66,y=333, value = 0
-x=67,y=333, value = 0
+x=67,y=333, value = 2
 x=68,y=333, value = 1
 x=69,y=333, value = 1
 x=70,y=333, value = 2
@@ -34808,7 +34808,7 @@ x=70,y=334, value = 0
 x=71,y=334, value = 1
 x=72,y=334, value = 0
 x=73,y=334, value = 0
-x=74,y=334, value = 0
+x=74,y=334, value = 2
 x=75,y=334, value = 0
 x=76,y=334, value = 0
 x=77,y=334, value = 0
@@ -34857,7 +34857,7 @@ x=15,y=335, value = 1
 x=16,y=335, value = 0
 x=17,y=335, value = 3
 x=18,y=335, value = 3
-x=19,y=335, value = 0
+x=19,y=335, value = 2
 x=20,y=335, value = 0
 x=21,y=335, value = 0
 x=22,y=335, value = 0
@@ -34886,7 +34886,7 @@ x=44,y=335, value = 0
 x=45,y=335, value = 0
 x=46,y=335, value = 0
 x=47,y=335, value = 0
-x=48,y=335, value = 0
+x=48,y=335, value = 2
 x=49,y=335, value = 0
 x=50,y=335, value = 0
 x=51,y=335, value = 0
@@ -34895,7 +34895,7 @@ x=53,y=335, value = 0
 x=54,y=335, value = 0
 x=55,y=335, value = 3
 x=56,y=335, value = 5
-x=57,y=335, value = 0
+x=57,y=335, value = 2
 x=58,y=335, value = 0
 x=59,y=335, value = 0
 x=60,y=335, value = 0
@@ -35247,7 +35247,7 @@ x=93,y=338, value = 0
 x=94,y=338, value = 0
 x=95,y=338, value = 0
 x=96,y=338, value = 0
-x=97,y=338, value = 2
+x=97,y=338, value = 0
 x=98,y=338, value = 0
 x=99,y=338, value = 0
 x=100,y=338, value = 0
@@ -35338,7 +35338,7 @@ x=80,y=339, value = 0
 x=81,y=339, value = 0
 x=82,y=339, value = 0
 x=83,y=339, value = 0
-x=84,y=339, value = 0
+x=84,y=339, value = 5
 x=85,y=339, value = 0
 x=86,y=339, value = 0
 x=87,y=339, value = 0
@@ -35407,7 +35407,7 @@ x=45,y=340, value = 0
 x=46,y=340, value = 0
 x=47,y=340, value = 0
 x=48,y=340, value = 0
-x=49,y=340, value = 0
+x=49,y=340, value = 5
 x=50,y=340, value = 0
 x=51,y=340, value = 0
 x=52,y=340, value = 0
@@ -36122,7 +36122,7 @@ x=32,y=347, value = 3
 x=33,y=347, value = 0
 x=34,y=347, value = 0
 x=35,y=347, value = 0
-x=36,y=347, value = 0
+x=36,y=347, value = 5
 x=37,y=347, value = 5
 x=38,y=347, value = 0
 x=39,y=347, value = 0
@@ -36518,7 +36518,7 @@ x=12,y=351, value = 0
 x=13,y=351, value = 0
 x=14,y=351, value = 0
 x=15,y=351, value = 0
-x=16,y=351, value = 0
+x=16,y=351, value = 5
 x=17,y=351, value = 0
 x=18,y=351, value = 0
 x=19,y=351, value = 0
@@ -36551,7 +36551,7 @@ x=45,y=351, value = 0
 x=46,y=351, value = 4
 x=47,y=351, value = 4
 x=48,y=351, value = 0
-x=49,y=351, value = 2
+x=49,y=351, value = 0
 x=50,y=351, value = 0
 x=51,y=351, value = 0
 x=52,y=351, value = 0
@@ -36637,7 +36637,7 @@ x=27,y=352, value = 0
 x=28,y=352, value = 0
 x=29,y=352, value = 0
 x=30,y=352, value = 0
-x=31,y=352, value = 5
+x=31,y=352, value = 0
 x=32,y=352, value = 0
 x=33,y=352, value = 0
 x=34,y=352, value = 0
@@ -36671,7 +36671,7 @@ x=61,y=352, value = 0
 x=62,y=352, value = 0
 x=63,y=352, value = 0
 x=64,y=352, value = 2
-x=65,y=352, value = 2
+x=65,y=352, value = 0
 x=66,y=352, value = 0
 x=67,y=352, value = 0
 x=68,y=352, value = 1
@@ -36735,7 +36735,7 @@ x=21,y=353, value = 0
 x=22,y=353, value = 0
 x=23,y=353, value = 0
 x=24,y=353, value = 0
-x=25,y=353, value = 2
+x=25,y=353, value = 0
 x=26,y=353, value = 0
 x=27,y=353, value = 0
 x=28,y=353, value = 0
@@ -36758,7 +36758,7 @@ x=44,y=353, value = 0
 x=45,y=353, value = 0
 x=46,y=353, value = 0
 x=47,y=353, value = 0
-x=48,y=353, value = 0
+x=48,y=353, value = 5
 x=49,y=353, value = 0
 x=50,y=353, value = 0
 x=51,y=353, value = 0
@@ -36979,7 +36979,7 @@ x=57,y=355, value = 0
 x=58,y=355, value = 0
 x=59,y=355, value = 0
 x=60,y=355, value = 0
-x=61,y=355, value = 0
+x=61,y=355, value = 5
 x=62,y=355, value = 4
 x=63,y=355, value = 0
 x=64,y=355, value = 0
@@ -37014,7 +37014,7 @@ x=92,y=355, value = 0
 x=93,y=355, value = 0
 x=94,y=355, value = 0
 x=95,y=355, value = 8
-x=96,y=355, value = 0
+x=96,y=355, value = 10
 x=97,y=355, value = 4
 x=98,y=355, value = 0
 x=99,y=355, value = 0
@@ -37290,7 +37290,7 @@ x=56,y=358, value = 0
 x=57,y=358, value = 0
 x=58,y=358, value = 0
 x=59,y=358, value = 17
-x=60,y=358, value = 0
+x=60,y=358, value = 20
 x=61,y=358, value = 9
 x=62,y=358, value = 0
 x=63,y=358, value = 0
@@ -37398,7 +37398,7 @@ x=60,y=359, value = 0
 x=61,y=359, value = 0
 x=62,y=359, value = 0
 x=63,y=359, value = 0
-x=64,y=359, value = 0
+x=64,y=359, value = 10
 x=65,y=359, value = 23
 x=66,y=359, value = 0
 x=67,y=359, value = 0
@@ -37470,7 +37470,7 @@ x=28,y=360, value = 0
 x=29,y=360, value = 0
 x=30,y=360, value = 0
 x=31,y=360, value = 5
-x=32,y=360, value = 5
+x=32,y=360, value = 0
 x=33,y=360, value = 0
 x=34,y=360, value = 0
 x=35,y=360, value = 0
@@ -37616,7 +37616,7 @@ x=70,y=361, value = 0
 x=71,y=361, value = 0
 x=72,y=361, value = 0
 x=73,y=361, value = 0
-x=74,y=361, value = 5
+x=74,y=361, value = 0
 x=75,y=361, value = 3
 x=76,y=361, value = 0
 x=77,y=361, value = 0
@@ -37818,7 +37818,7 @@ x=64,y=363, value = 0
 x=65,y=363, value = 0
 x=66,y=363, value = 0
 x=67,y=363, value = 0
-x=68,y=363, value = 2
+x=68,y=363, value = 0
 x=69,y=363, value = 0
 x=70,y=363, value = 0
 x=71,y=363, value = 0
@@ -37910,7 +37910,7 @@ x=52,y=364, value = 0
 x=53,y=364, value = 0
 x=54,y=364, value = 21
 x=55,y=364, value = 20
-x=56,y=364, value = 0
+x=56,y=364, value = 17
 x=57,y=364, value = 0
 x=58,y=364, value = 0
 x=59,y=364, value = 0
@@ -37937,7 +37937,7 @@ x=79,y=364, value = 0
 x=80,y=364, value = 0
 x=81,y=364, value = 0
 x=82,y=364, value = 0
-x=83,y=364, value = 2
+x=83,y=364, value = 0
 x=84,y=364, value = 0
 x=85,y=364, value = 0
 x=86,y=364, value = 0
@@ -38353,7 +38353,7 @@ x=79,y=368, value = 0
 x=80,y=368, value = 0
 x=81,y=368, value = 0
 x=82,y=368, value = 0
-x=83,y=368, value = 2
+x=83,y=368, value = 0
 x=84,y=368, value = 0
 x=85,y=368, value = 0
 x=86,y=368, value = 0
@@ -38542,7 +38542,7 @@ x=60,y=370, value = 0
 x=61,y=370, value = 0
 x=62,y=370, value = 0
 x=63,y=370, value = 2
-x=64,y=370, value = 2
+x=64,y=370, value = 0
 x=65,y=370, value = 0
 x=66,y=370, value = 0
 x=67,y=370, value = 0
@@ -38556,7 +38556,7 @@ x=74,y=370, value = 0
 x=75,y=370, value = 0
 x=76,y=370, value = 0
 x=77,y=370, value = 0
-x=78,y=370, value = 5
+x=78,y=370, value = 0
 x=79,y=370, value = 6
 x=80,y=370, value = 0
 x=81,y=370, value = 0
@@ -38642,7 +38642,7 @@ x=56,y=371, value = 0
 x=57,y=371, value = 6
 x=58,y=371, value = 0
 x=59,y=371, value = 0
-x=60,y=371, value = 2
+x=60,y=371, value = 0
 x=61,y=371, value = 0
 x=62,y=371, value = 0
 x=63,y=371, value = 3
@@ -38697,7 +38697,7 @@ x=7,y=372, value = 0
 x=8,y=372, value = 0
 x=9,y=372, value = 0
 x=10,y=372, value = 0
-x=11,y=372, value = 2
+x=11,y=372, value = 0
 x=12,y=372, value = 0
 x=13,y=372, value = 0
 x=14,y=372, value = 0
@@ -38740,7 +38740,7 @@ x=50,y=372, value = 0
 x=51,y=372, value = 4
 x=52,y=372, value = 0
 x=53,y=372, value = 0
-x=54,y=372, value = 2
+x=54,y=372, value = 0
 x=55,y=372, value = 0
 x=56,y=372, value = 0
 x=57,y=372, value = 0
@@ -38837,7 +38837,7 @@ x=43,y=373, value = 0
 x=44,y=373, value = 0
 x=45,y=373, value = 0
 x=46,y=373, value = 0
-x=47,y=373, value = 2
+x=47,y=373, value = 0
 x=48,y=373, value = 0
 x=49,y=373, value = 0
 x=50,y=373, value = 0
@@ -38896,7 +38896,7 @@ x=102,y=373, value = 0
 x=103,y=373, value = 1
 x=0,y=374, value = 3
 x=1,y=374, value = 4
-x=2,y=374, value = 2
+x=2,y=374, value = 0
 x=3,y=374, value = 0
 x=4,y=374, value = 0
 x=5,y=374, value = 7
@@ -38973,7 +38973,7 @@ x=75,y=374, value = 0
 x=76,y=374, value = 2
 x=77,y=374, value = 0
 x=78,y=374, value = 0
-x=79,y=374, value = 2
+x=79,y=374, value = 0
 x=80,y=374, value = 0
 x=81,y=374, value = 0
 x=82,y=374, value = 1
@@ -39026,7 +39026,7 @@ x=24,y=375, value = 0
 x=25,y=375, value = 0
 x=26,y=375, value = 0
 x=27,y=375, value = 1
-x=28,y=375, value = 0
+x=28,y=375, value = 5
 x=29,y=375, value = 5
 x=30,y=375, value = 0
 x=31,y=375, value = 0
@@ -39085,9 +39085,9 @@ x=83,y=375, value = 3
 x=84,y=375, value = 0
 x=85,y=375, value = 0
 x=86,y=375, value = 0
-x=87,y=375, value = 0
+x=87,y=375, value = 5
 x=88,y=375, value = 0
-x=89,y=375, value = 0
+x=89,y=375, value = 10
 x=90,y=375, value = 0
 x=91,y=375, value = 0
 x=92,y=375, value = 0
@@ -39111,7 +39111,7 @@ x=5,y=376, value = 0
 x=6,y=376, value = 0
 x=7,y=376, value = 2
 x=8,y=376, value = 0
-x=9,y=376, value = 2
+x=9,y=376, value = 0
 x=10,y=376, value = 0
 x=11,y=376, value = 1
 x=12,y=376, value = 5
@@ -39249,7 +39249,7 @@ x=39,y=377, value = 0
 x=40,y=377, value = 0
 x=41,y=377, value = 0
 x=42,y=377, value = 3
-x=43,y=377, value = 2
+x=43,y=377, value = 0
 x=44,y=377, value = 0
 x=45,y=377, value = 0
 x=46,y=377, value = 1
@@ -39336,7 +39336,7 @@ x=22,y=378, value = 0
 x=23,y=378, value = 0
 x=24,y=378, value = 0
 x=25,y=378, value = 0
-x=26,y=378, value = 2
+x=26,y=378, value = 0
 x=27,y=378, value = 6
 x=28,y=378, value = 0
 x=29,y=378, value = 0
@@ -39566,9 +39566,9 @@ x=44,y=380, value = 0
 x=45,y=380, value = 6
 x=46,y=380, value = 0
 x=47,y=380, value = 0
-x=48,y=380, value = 2
+x=48,y=380, value = 0
 x=49,y=380, value = 0
-x=50,y=380, value = 2
+x=50,y=380, value = 0
 x=51,y=380, value = 0
 x=52,y=380, value = 0
 x=53,y=380, value = 0
@@ -39587,7 +39587,7 @@ x=65,y=380, value = 0
 x=66,y=380, value = 0
 x=67,y=380, value = 0
 x=68,y=380, value = 0
-x=69,y=380, value = 5
+x=69,y=380, value = 0
 x=70,y=380, value = 6
 x=71,y=380, value = 0
 x=72,y=380, value = 0
@@ -39636,7 +39636,7 @@ x=10,y=381, value = 0
 x=11,y=381, value = 0
 x=12,y=381, value = 0
 x=13,y=381, value = 0
-x=14,y=381, value = 5
+x=14,y=381, value = 0
 x=15,y=381, value = 0
 x=16,y=381, value = 14
 x=17,y=381, value = 6
@@ -39724,7 +39724,7 @@ x=98,y=381, value = 0
 x=99,y=381, value = 0
 x=100,y=381, value = 0
 x=101,y=381, value = 0
-x=102,y=381, value = 2
+x=102,y=381, value = 0
 x=103,y=381, value = 0
 x=0,y=382, value = 0
 x=1,y=382, value = 0
@@ -39969,7 +39969,7 @@ x=31,y=384, value = 0
 x=32,y=384, value = 0
 x=33,y=384, value = 0
 x=34,y=384, value = 0
-x=35,y=384, value = 2
+x=35,y=384, value = 0
 x=36,y=384, value = 0
 x=37,y=384, value = 0
 x=38,y=384, value = 0
@@ -40118,7 +40118,7 @@ x=76,y=385, value = 13
 x=77,y=385, value = 16
 x=78,y=385, value = 9
 x=79,y=385, value = 0
-x=80,y=385, value = 0
+x=80,y=385, value = 13
 x=81,y=385, value = 0
 x=82,y=385, value = 0
 x=83,y=385, value = 43
@@ -40385,7 +40385,7 @@ x=31,y=388, value = 0
 x=32,y=388, value = 0
 x=33,y=388, value = 0
 x=34,y=388, value = 0
-x=35,y=388, value = 5
+x=35,y=388, value = 0
 x=36,y=388, value = 0
 x=37,y=388, value = 0
 x=38,y=388, value = 0
@@ -40422,7 +40422,7 @@ x=68,y=388, value = 7
 x=69,y=388, value = 0
 x=70,y=388, value = 0
 x=71,y=388, value = 7
-x=72,y=388, value = 5
+x=72,y=388, value = 0
 x=73,y=388, value = 3
 x=74,y=388, value = 5
 x=75,y=388, value = 7
@@ -40445,7 +40445,7 @@ x=91,y=388, value = 0
 x=92,y=388, value = 0
 x=93,y=388, value = 0
 x=94,y=388, value = 0
-x=95,y=388, value = 2
+x=95,y=388, value = 0
 x=96,y=388, value = 0
 x=97,y=388, value = 0
 x=98,y=388, value = 0
@@ -40458,7 +40458,7 @@ x=0,y=389, value = 0
 x=1,y=389, value = 0
 x=2,y=389, value = 7
 x=3,y=389, value = 0
-x=4,y=389, value = 0
+x=4,y=389, value = 5
 x=5,y=389, value = 0
 x=6,y=389, value = 0
 x=7,y=389, value = 10
@@ -40591,7 +40591,7 @@ x=29,y=390, value = 0
 x=30,y=390, value = 0
 x=31,y=390, value = 0
 x=32,y=390, value = 0
-x=33,y=390, value = 2
+x=33,y=390, value = 0
 x=34,y=390, value = 0
 x=35,y=390, value = 13
 x=36,y=390, value = 0
@@ -40766,7 +40766,7 @@ x=100,y=391, value = 1
 x=101,y=391, value = 0
 x=102,y=391, value = 0
 x=103,y=391, value = 0
-x=0,y=392, value = 0
+x=0,y=392, value = 5
 x=1,y=392, value = 0
 x=2,y=392, value = 0
 x=3,y=392, value = 0
@@ -40866,7 +40866,7 @@ x=96,y=392, value = 0
 x=97,y=392, value = 0
 x=98,y=392, value = 0
 x=99,y=392, value = 3
-x=100,y=392, value = 5
+x=100,y=392, value = 0
 x=101,y=392, value = 10
 x=102,y=392, value = 0
 x=103,y=392, value = 0
@@ -41088,7 +41088,7 @@ x=6,y=395, value = 0
 x=7,y=395, value = 0
 x=8,y=395, value = 0
 x=9,y=395, value = 5
-x=10,y=395, value = 2
+x=10,y=395, value = 0
 x=11,y=395, value = 14
 x=12,y=395, value = 13
 x=13,y=395, value = 0
@@ -41121,7 +41121,7 @@ x=39,y=395, value = 0
 x=40,y=395, value = 0
 x=41,y=395, value = 16
 x=42,y=395, value = 13
-x=43,y=395, value = 0
+x=43,y=395, value = 10
 x=44,y=395, value = 0
 x=45,y=395, value = 0
 x=46,y=395, value = 8
@@ -41277,7 +41277,7 @@ x=91,y=396, value = 0
 x=92,y=396, value = 2
 x=93,y=396, value = 0
 x=94,y=396, value = 5
-x=95,y=396, value = 5
+x=95,y=396, value = 0
 x=96,y=396, value = 0
 x=97,y=396, value = 0
 x=98,y=396, value = 0
@@ -41395,7 +41395,7 @@ x=1,y=398, value = 0
 x=2,y=398, value = 0
 x=3,y=398, value = 0
 x=4,y=398, value = 0
-x=5,y=398, value = 0
+x=5,y=398, value = 5
 x=6,y=398, value = 0
 x=7,y=398, value = 0
 x=8,y=398, value = 0
@@ -41655,7 +41655,7 @@ x=53,y=400, value = 0
 x=54,y=400, value = 0
 x=55,y=400, value = 0
 x=56,y=400, value = 0
-x=57,y=400, value = 2
+x=57,y=400, value = 0
 x=58,y=400, value = 1
 x=59,y=400, value = 0
 x=60,y=400, value = 0
@@ -41856,7 +41856,7 @@ x=46,y=402, value = 0
 x=47,y=402, value = 0
 x=48,y=402, value = 0
 x=49,y=402, value = 0
-x=50,y=402, value = 0
+x=50,y=402, value = 5
 x=51,y=402, value = 0
 x=52,y=402, value = 0
 x=53,y=402, value = 0
@@ -42074,7 +42074,7 @@ x=56,y=404, value = 0
 x=57,y=404, value = 6
 x=58,y=404, value = 5
 x=59,y=404, value = 0
-x=60,y=404, value = 0
+x=60,y=404, value = 5
 x=61,y=404, value = 0
 x=62,y=404, value = 0
 x=63,y=404, value = 0
@@ -42356,7 +42356,7 @@ x=26,y=407, value = 0
 x=27,y=407, value = 0
 x=28,y=407, value = 0
 x=29,y=407, value = 1
-x=30,y=407, value = 2
+x=30,y=407, value = 0
 x=31,y=407, value = 0
 x=32,y=407, value = 0
 x=33,y=407, value = 0
@@ -42380,7 +42380,7 @@ x=50,y=407, value = 0
 x=51,y=407, value = 0
 x=52,y=407, value = 0
 x=53,y=407, value = 6
-x=54,y=407, value = 5
+x=54,y=407, value = 0
 x=55,y=407, value = 0
 x=56,y=407, value = 0
 x=57,y=407, value = 0
@@ -42521,7 +42521,7 @@ x=87,y=408, value = 0
 x=88,y=408, value = 0
 x=89,y=408, value = 0
 x=90,y=408, value = 0
-x=91,y=408, value = 0
+x=91,y=408, value = 5
 x=92,y=408, value = 0
 x=93,y=408, value = 0
 x=94,y=408, value = 0
@@ -42589,7 +42589,7 @@ x=51,y=409, value = 0
 x=52,y=409, value = 0
 x=53,y=409, value = 0
 x=54,y=409, value = 2
-x=55,y=409, value = 0
+x=55,y=409, value = 5
 x=56,y=409, value = 0
 x=57,y=409, value = 0
 x=58,y=409, value = 0
@@ -42631,7 +42631,7 @@ x=93,y=409, value = 0
 x=94,y=409, value = 0
 x=95,y=409, value = 0
 x=96,y=409, value = 0
-x=97,y=409, value = 0
+x=97,y=409, value = 5
 x=98,y=409, value = 0
 x=99,y=409, value = 0
 x=100,y=409, value = 0
@@ -42693,7 +42693,7 @@ x=51,y=410, value = 0
 x=52,y=410, value = 0
 x=53,y=410, value = 0
 x=54,y=410, value = 3
-x=55,y=410, value = 2
+x=55,y=410, value = 0
 x=56,y=410, value = 0
 x=57,y=410, value = 0
 x=58,y=410, value = 0
@@ -42736,7 +42736,7 @@ x=94,y=410, value = 0
 x=95,y=410, value = 0
 x=96,y=410, value = 0
 x=97,y=410, value = 0
-x=98,y=410, value = 2
+x=98,y=410, value = 0
 x=99,y=410, value = 0
 x=100,y=410, value = 0
 x=101,y=410, value = 0
@@ -42938,14 +42938,14 @@ x=88,y=412, value = 0
 x=89,y=412, value = 0
 x=90,y=412, value = 0
 x=91,y=412, value = 0
-x=92,y=412, value = 0
+x=92,y=412, value = 5
 x=93,y=412, value = 0
 x=94,y=412, value = 0
 x=95,y=412, value = 0
 x=96,y=412, value = 0
 x=97,y=412, value = 0
 x=98,y=412, value = 0
-x=99,y=412, value = 2
+x=99,y=412, value = 0
 x=100,y=412, value = 0
 x=101,y=412, value = 0
 x=102,y=412, value = 0
@@ -43731,7 +43731,7 @@ x=49,y=420, value = 0
 x=50,y=420, value = 0
 x=51,y=420, value = 0
 x=52,y=420, value = 0
-x=53,y=420, value = 5
+x=53,y=420, value = 0
 x=54,y=420, value = 0
 x=55,y=420, value = 0
 x=56,y=420, value = 0
@@ -43826,7 +43826,7 @@ x=40,y=421, value = 0
 x=41,y=421, value = 0
 x=42,y=421, value = 0
 x=43,y=421, value = 0
-x=44,y=421, value = 0
+x=44,y=421, value = 5
 x=45,y=421, value = 0
 x=46,y=421, value = 0
 x=47,y=421, value = 0
@@ -43846,7 +43846,7 @@ x=60,y=421, value = 0
 x=61,y=421, value = 11
 x=62,y=421, value = 0
 x=63,y=421, value = 0
-x=64,y=421, value = 2
+x=64,y=421, value = 0
 x=65,y=421, value = 0
 x=66,y=421, value = 0
 x=67,y=421, value = 0
@@ -44189,7 +44189,7 @@ x=91,y=424, value = 0
 x=92,y=424, value = 0
 x=93,y=424, value = 0
 x=94,y=424, value = 0
-x=95,y=424, value = 0
+x=95,y=424, value = 10
 x=96,y=424, value = 0
 x=97,y=424, value = 0
 x=98,y=424, value = 0
@@ -44643,12 +44643,12 @@ x=25,y=429, value = 0
 x=26,y=429, value = 0
 x=27,y=429, value = 0
 x=28,y=429, value = 0
-x=29,y=429, value = 2
+x=29,y=429, value = 0
 x=30,y=429, value = 0
 x=31,y=429, value = 0
 x=32,y=429, value = 0
 x=33,y=429, value = 0
-x=34,y=429, value = 5
+x=34,y=429, value = 0
 x=35,y=429, value = 0
 x=36,y=429, value = 0
 x=37,y=429, value = 0
@@ -44795,7 +44795,7 @@ x=73,y=430, value = 0
 x=74,y=430, value = 0
 x=75,y=430, value = 0
 x=76,y=430, value = 0
-x=77,y=430, value = 2
+x=77,y=430, value = 0
 x=78,y=430, value = 0
 x=79,y=430, value = 0
 x=80,y=430, value = 0
@@ -44817,7 +44817,7 @@ x=95,y=430, value = 0
 x=96,y=430, value = 0
 x=97,y=430, value = 0
 x=98,y=430, value = 0
-x=99,y=430, value = 2
+x=99,y=430, value = 0
 x=100,y=430, value = 2
 x=101,y=430, value = 0
 x=102,y=430, value = 0
@@ -45112,7 +45112,7 @@ x=78,y=433, value = 0
 x=79,y=433, value = 2
 x=80,y=433, value = 0
 x=81,y=433, value = 0
-x=82,y=433, value = 0
+x=82,y=433, value = 5
 x=83,y=433, value = 0
 x=84,y=433, value = 0
 x=85,y=433, value = 11
@@ -45269,7 +45269,7 @@ x=27,y=435, value = 0
 x=28,y=435, value = 0
 x=29,y=435, value = 0
 x=30,y=435, value = 0
-x=31,y=435, value = 2
+x=31,y=435, value = 0
 x=32,y=435, value = 0
 x=33,y=435, value = 0
 x=34,y=435, value = 0
@@ -45487,8 +45487,8 @@ x=37,y=437, value = 0
 x=38,y=437, value = 0
 x=39,y=437, value = 0
 x=40,y=437, value = 0
-x=41,y=437, value = 2
-x=42,y=437, value = 2
+x=41,y=437, value = 0
+x=42,y=437, value = 0
 x=43,y=437, value = 0
 x=44,y=437, value = 0
 x=45,y=437, value = 0
@@ -45533,7 +45533,7 @@ x=83,y=437, value = 0
 x=84,y=437, value = 0
 x=85,y=437, value = 0
 x=86,y=437, value = 0
-x=87,y=437, value = 23
+x=87,y=437, value = 0
 x=88,y=437, value = 0
 x=89,y=437, value = 0
 x=90,y=437, value = 0
@@ -45915,7 +45915,7 @@ x=49,y=441, value = 0
 x=50,y=441, value = 0
 x=51,y=441, value = 0
 x=52,y=441, value = 0
-x=53,y=441, value = 2
+x=53,y=441, value = 0
 x=54,y=441, value = 0
 x=55,y=441, value = 0
 x=56,y=441, value = 0
@@ -45928,7 +45928,7 @@ x=62,y=441, value = 0
 x=63,y=441, value = 0
 x=64,y=441, value = 0
 x=65,y=441, value = 0
-x=66,y=441, value = 2
+x=66,y=441, value = 0
 x=67,y=441, value = 0
 x=68,y=441, value = 0
 x=69,y=441, value = 0
@@ -46064,7 +46064,7 @@ x=94,y=442, value = 0
 x=95,y=442, value = 0
 x=96,y=442, value = 0
 x=97,y=442, value = 0
-x=98,y=442, value = 2
+x=98,y=442, value = 0
 x=99,y=442, value = 1
 x=100,y=442, value = 0
 x=101,y=442, value = 0
@@ -46107,8 +46107,8 @@ x=33,y=443, value = 0
 x=34,y=443, value = 0
 x=35,y=443, value = 0
 x=36,y=443, value = 0
-x=37,y=443, value = 2
-x=38,y=443, value = 2
+x=37,y=443, value = 0
+x=38,y=443, value = 0
 x=39,y=443, value = 0
 x=40,y=443, value = 0
 x=41,y=443, value = 0
@@ -46168,7 +46168,7 @@ x=94,y=443, value = 0
 x=95,y=443, value = 0
 x=96,y=443, value = 0
 x=97,y=443, value = 0
-x=98,y=443, value = 2
+x=98,y=443, value = 0
 x=99,y=443, value = 1
 x=100,y=443, value = 0
 x=101,y=443, value = 0
@@ -46229,7 +46229,7 @@ x=51,y=444, value = 0
 x=52,y=444, value = 0
 x=53,y=444, value = 0
 x=54,y=444, value = 0
-x=55,y=444, value = 2
+x=55,y=444, value = 0
 x=56,y=444, value = 0
 x=57,y=444, value = 0
 x=58,y=444, value = 0
@@ -46317,7 +46317,7 @@ x=35,y=445, value = 0
 x=36,y=445, value = 0
 x=37,y=445, value = 3
 x=38,y=445, value = 0
-x=39,y=445, value = 2
+x=39,y=445, value = 0
 x=40,y=445, value = 2
 x=41,y=445, value = 0
 x=42,y=445, value = 0
@@ -46630,7 +46630,7 @@ x=36,y=448, value = 0
 x=37,y=448, value = 0
 x=38,y=448, value = 0
 x=39,y=448, value = 1
-x=40,y=448, value = 2
+x=40,y=448, value = 0
 x=41,y=448, value = 0
 x=42,y=448, value = 0
 x=43,y=448, value = 0
@@ -47000,7 +47000,7 @@ x=94,y=451, value = 2
 x=95,y=451, value = 0
 x=96,y=451, value = 0
 x=97,y=451, value = 0
-x=98,y=451, value = 2
+x=98,y=451, value = 0
 x=99,y=451, value = 0
 x=100,y=451, value = 0
 x=101,y=451, value = 4
@@ -47024,7 +47024,7 @@ x=14,y=452, value = 2
 x=15,y=452, value = 0
 x=16,y=452, value = 0
 x=17,y=452, value = 4
-x=18,y=452, value = 2
+x=18,y=452, value = 0
 x=19,y=452, value = 0
 x=20,y=452, value = 0
 x=21,y=452, value = 0
@@ -47124,7 +47124,7 @@ x=10,y=453, value = 0
 x=11,y=453, value = 0
 x=12,y=453, value = 0
 x=13,y=453, value = 2
-x=14,y=453, value = 2
+x=14,y=453, value = 0
 x=15,y=453, value = 4
 x=16,y=453, value = 0
 x=17,y=453, value = 0
@@ -47207,7 +47207,7 @@ x=93,y=453, value = 0
 x=94,y=453, value = 0
 x=95,y=453, value = 0
 x=96,y=453, value = 5
-x=97,y=453, value = 0
+x=97,y=453, value = 5
 x=98,y=453, value = 0
 x=99,y=453, value = 1
 x=100,y=453, value = 0
@@ -47254,7 +47254,7 @@ x=36,y=454, value = 0
 x=37,y=454, value = 0
 x=38,y=454, value = 0
 x=39,y=454, value = 1
-x=40,y=454, value = 2
+x=40,y=454, value = 0
 x=41,y=454, value = 4
 x=42,y=454, value = 0
 x=43,y=454, value = 0
@@ -47566,7 +47566,7 @@ x=36,y=457, value = 0
 x=37,y=457, value = 0
 x=38,y=457, value = 3
 x=39,y=457, value = 3
-x=40,y=457, value = 2
+x=40,y=457, value = 0
 x=41,y=457, value = 0
 x=42,y=457, value = 0
 x=43,y=457, value = 0
@@ -47599,7 +47599,7 @@ x=69,y=457, value = 0
 x=70,y=457, value = 4
 x=71,y=457, value = 2
 x=72,y=457, value = 0
-x=73,y=457, value = 2
+x=73,y=457, value = 0
 x=74,y=457, value = 0
 x=75,y=457, value = 0
 x=76,y=457, value = 0
@@ -47703,7 +47703,7 @@ x=69,y=458, value = 0
 x=70,y=458, value = 0
 x=71,y=458, value = 0
 x=72,y=458, value = 0
-x=73,y=458, value = 2
+x=73,y=458, value = 0
 x=74,y=458, value = 0
 x=75,y=458, value = 2
 x=76,y=458, value = 0
@@ -47847,7 +47847,7 @@ x=5,y=460, value = 0
 x=6,y=460, value = 0
 x=7,y=460, value = 0
 x=8,y=460, value = 0
-x=9,y=460, value = 2
+x=9,y=460, value = 0
 x=10,y=460, value = 0
 x=11,y=460, value = 3
 x=12,y=460, value = 2
@@ -47932,7 +47932,7 @@ x=90,y=460, value = 0
 x=91,y=460, value = 0
 x=92,y=460, value = 0
 x=93,y=460, value = 0
-x=94,y=460, value = 2
+x=94,y=460, value = 0
 x=95,y=460, value = 0
 x=96,y=460, value = 0
 x=97,y=460, value = 0
@@ -47956,7 +47956,7 @@ x=10,y=461, value = 0
 x=11,y=461, value = 0
 x=12,y=461, value = 0
 x=13,y=461, value = 0
-x=14,y=461, value = 2
+x=14,y=461, value = 0
 x=15,y=461, value = 2
 x=16,y=461, value = 0
 x=17,y=461, value = 0
@@ -48972,7 +48972,7 @@ x=90,y=470, value = 0
 x=91,y=470, value = 0
 x=92,y=470, value = 0
 x=93,y=470, value = 0
-x=94,y=470, value = 2
+x=94,y=470, value = 0
 x=95,y=470, value = 0
 x=96,y=470, value = 0
 x=97,y=470, value = 0
@@ -48990,7 +48990,7 @@ x=4,y=471, value = 0
 x=5,y=471, value = 0
 x=6,y=471, value = 0
 x=7,y=471, value = 2
-x=8,y=471, value = 2
+x=8,y=471, value = 0
 x=9,y=471, value = 1
 x=10,y=471, value = 0
 x=11,y=471, value = 0
@@ -49053,7 +49053,7 @@ x=67,y=471, value = 0
 x=68,y=471, value = 0
 x=69,y=471, value = 0
 x=70,y=471, value = 2
-x=71,y=471, value = 2
+x=71,y=471, value = 0
 x=72,y=471, value = 0
 x=73,y=471, value = 0
 x=74,y=471, value = 0
@@ -49071,7 +49071,7 @@ x=85,y=471, value = 3
 x=86,y=471, value = 0
 x=87,y=471, value = 2
 x=88,y=471, value = 3
-x=89,y=471, value = 2
+x=89,y=471, value = 0
 x=90,y=471, value = 2
 x=91,y=471, value = 0
 x=92,y=471, value = 3
@@ -49144,7 +49144,7 @@ x=54,y=472, value = 0
 x=55,y=472, value = 0
 x=56,y=472, value = 0
 x=57,y=472, value = 0
-x=58,y=472, value = 2
+x=58,y=472, value = 0
 x=59,y=472, value = 0
 x=60,y=472, value = 0
 x=61,y=472, value = 0
@@ -49202,7 +49202,7 @@ x=8,y=473, value = 0
 x=9,y=473, value = 0
 x=10,y=473, value = 0
 x=11,y=473, value = 4
-x=12,y=473, value = 2
+x=12,y=473, value = 0
 x=13,y=473, value = 0
 x=14,y=473, value = 0
 x=15,y=473, value = 0
@@ -49216,7 +49216,7 @@ x=22,y=473, value = 0
 x=23,y=473, value = 0
 x=24,y=473, value = 0
 x=25,y=473, value = 0
-x=26,y=473, value = 2
+x=26,y=473, value = 0
 x=27,y=473, value = 0
 x=28,y=473, value = 0
 x=29,y=473, value = 4
@@ -49387,7 +49387,7 @@ x=89,y=474, value = 0
 x=90,y=474, value = 0
 x=91,y=474, value = 0
 x=92,y=474, value = 0
-x=93,y=474, value = 2
+x=93,y=474, value = 0
 x=94,y=474, value = 0
 x=95,y=474, value = 0
 x=96,y=474, value = 0
@@ -49395,7 +49395,7 @@ x=97,y=474, value = 0
 x=98,y=474, value = 0
 x=99,y=474, value = 0
 x=100,y=474, value = 0
-x=101,y=474, value = 2
+x=101,y=474, value = 0
 x=102,y=474, value = 4
 x=103,y=474, value = 0
 x=0,y=475, value = 0
@@ -49405,8 +49405,8 @@ x=3,y=475, value = 0
 x=4,y=475, value = 0
 x=5,y=475, value = 0
 x=6,y=475, value = 0
-x=7,y=475, value = 2
-x=8,y=475, value = 2
+x=7,y=475, value = 0
+x=8,y=475, value = 0
 x=9,y=475, value = 0
 x=10,y=475, value = 0
 x=11,y=475, value = 0
@@ -49433,7 +49433,7 @@ x=31,y=475, value = 4
 x=32,y=475, value = 0
 x=33,y=475, value = 0
 x=34,y=475, value = 2
-x=35,y=475, value = 2
+x=35,y=475, value = 0
 x=36,y=475, value = 2
 x=37,y=475, value = 0
 x=38,y=475, value = 0
@@ -49532,7 +49532,7 @@ x=26,y=476, value = 0
 x=27,y=476, value = 0
 x=28,y=476, value = 0
 x=29,y=476, value = 0
-x=30,y=476, value = 0
+x=30,y=476, value = 5
 x=31,y=476, value = 3
 x=32,y=476, value = 0
 x=33,y=476, value = 0
@@ -49616,8 +49616,8 @@ x=6,y=477, value = 0
 x=7,y=477, value = 0
 x=8,y=477, value = 0
 x=9,y=477, value = 0
-x=10,y=477, value = 2
-x=11,y=477, value = 2
+x=10,y=477, value = 0
+x=11,y=477, value = 0
 x=12,y=477, value = 0
 x=13,y=477, value = 0
 x=14,y=477, value = 1
@@ -49755,7 +49755,7 @@ x=41,y=478, value = 0
 x=42,y=478, value = 0
 x=43,y=478, value = 0
 x=44,y=478, value = 0
-x=45,y=478, value = 2
+x=45,y=478, value = 0
 x=46,y=478, value = 0
 x=47,y=478, value = 0
 x=48,y=478, value = 0
@@ -49961,7 +49961,7 @@ x=39,y=480, value = 0
 x=40,y=480, value = 0
 x=41,y=480, value = 1
 x=42,y=480, value = 0
-x=43,y=480, value = 2
+x=43,y=480, value = 0
 x=44,y=480, value = 0
 x=45,y=480, value = 0
 x=46,y=480, value = 0
@@ -50056,7 +50056,7 @@ x=30,y=481, value = 0
 x=31,y=481, value = 0
 x=32,y=481, value = 0
 x=33,y=481, value = 0
-x=34,y=481, value = 2
+x=34,y=481, value = 0
 x=35,y=481, value = 0
 x=36,y=481, value = 0
 x=37,y=481, value = 0
@@ -50121,7 +50121,7 @@ x=95,y=481, value = 0
 x=96,y=481, value = 0
 x=97,y=481, value = 0
 x=98,y=481, value = 0
-x=99,y=481, value = 2
+x=99,y=481, value = 0
 x=100,y=481, value = 2
 x=101,y=481, value = 0
 x=102,y=481, value = 0
@@ -50355,7 +50355,7 @@ x=17,y=484, value = 0
 x=18,y=484, value = 0
 x=19,y=484, value = 0
 x=20,y=484, value = 0
-x=21,y=484, value = 2
+x=21,y=484, value = 0
 x=22,y=484, value = 0
 x=23,y=484, value = 0
 x=24,y=484, value = 0
@@ -50444,8 +50444,8 @@ x=2,y=485, value = 1
 x=3,y=485, value = 0
 x=4,y=485, value = 0
 x=5,y=485, value = 0
-x=6,y=485, value = 2
-x=7,y=485, value = 2
+x=6,y=485, value = 0
+x=7,y=485, value = 0
 x=8,y=485, value = 0
 x=9,y=485, value = 0
 x=10,y=485, value = 3
@@ -50476,7 +50476,7 @@ x=34,y=485, value = 0
 x=35,y=485, value = 0
 x=36,y=485, value = 0
 x=37,y=485, value = 3
-x=38,y=485, value = 2
+x=38,y=485, value = 0
 x=39,y=485, value = 2
 x=40,y=485, value = 0
 x=41,y=485, value = 0
@@ -50503,7 +50503,7 @@ x=61,y=485, value = 0
 x=62,y=485, value = 1
 x=63,y=485, value = 0
 x=64,y=485, value = 2
-x=65,y=485, value = 2
+x=65,y=485, value = 0
 x=66,y=485, value = 0
 x=67,y=485, value = 0
 x=68,y=485, value = 0
@@ -50607,7 +50607,7 @@ x=61,y=486, value = 2
 x=62,y=486, value = 2
 x=63,y=486, value = 0
 x=64,y=486, value = 2
-x=65,y=486, value = 2
+x=65,y=486, value = 0
 x=66,y=486, value = 0
 x=67,y=486, value = 0
 x=68,y=486, value = 0
@@ -50725,7 +50725,7 @@ x=75,y=487, value = 0
 x=76,y=487, value = 0
 x=77,y=487, value = 0
 x=78,y=487, value = 0
-x=79,y=487, value = 2
+x=79,y=487, value = 0
 x=80,y=487, value = 0
 x=81,y=487, value = 1
 x=82,y=487, value = 0
@@ -50759,7 +50759,7 @@ x=5,y=488, value = 0
 x=6,y=488, value = 0
 x=7,y=488, value = 0
 x=8,y=488, value = 2
-x=9,y=488, value = 5
+x=9,y=488, value = 0
 x=10,y=488, value = 0
 x=11,y=488, value = 0
 x=12,y=488, value = 0
@@ -50848,8 +50848,8 @@ x=94,y=488, value = 3
 x=95,y=488, value = 0
 x=96,y=488, value = 0
 x=97,y=488, value = 0
-x=98,y=488, value = 2
-x=99,y=488, value = 2
+x=98,y=488, value = 0
+x=99,y=488, value = 0
 x=100,y=488, value = 0
 x=101,y=488, value = 0
 x=102,y=488, value = 0
@@ -50883,7 +50883,7 @@ x=25,y=489, value = 0
 x=26,y=489, value = 0
 x=27,y=489, value = 0
 x=28,y=489, value = 0
-x=29,y=489, value = 2
+x=29,y=489, value = 0
 x=30,y=489, value = 0
 x=31,y=489, value = 0
 x=32,y=489, value = 0
@@ -50945,14 +50945,14 @@ x=87,y=489, value = 0
 x=88,y=489, value = 0
 x=89,y=489, value = 0
 x=90,y=489, value = 0
-x=91,y=489, value = 2
+x=91,y=489, value = 0
 x=92,y=489, value = 0
 x=93,y=489, value = 0
 x=94,y=489, value = 0
 x=95,y=489, value = 0
 x=96,y=489, value = 2
-x=97,y=489, value = 2
-x=98,y=489, value = 2
+x=97,y=489, value = 0
+x=98,y=489, value = 0
 x=99,y=489, value = 0
 x=100,y=489, value = 0
 x=101,y=489, value = 0
@@ -50970,7 +50970,7 @@ x=8,y=490, value = 0
 x=9,y=490, value = 0
 x=10,y=490, value = 0
 x=11,y=490, value = 5
-x=12,y=490, value = 5
+x=12,y=490, value = 0
 x=13,y=490, value = 0
 x=14,y=490, value = 0
 x=15,y=490, value = 0
@@ -50987,7 +50987,7 @@ x=25,y=490, value = 0
 x=26,y=490, value = 0
 x=27,y=490, value = 0
 x=28,y=490, value = 0
-x=29,y=490, value = 2
+x=29,y=490, value = 0
 x=30,y=490, value = 0
 x=31,y=490, value = 0
 x=32,y=490, value = 0
@@ -51052,7 +51052,7 @@ x=90,y=490, value = 0
 x=91,y=490, value = 0
 x=92,y=490, value = 0
 x=93,y=490, value = 6
-x=94,y=490, value = 0
+x=94,y=490, value = 5
 x=95,y=490, value = 0
 x=96,y=490, value = 0
 x=97,y=490, value = 2
@@ -51128,7 +51128,7 @@ x=62,y=491, value = 0
 x=63,y=491, value = 2
 x=64,y=491, value = 0
 x=65,y=491, value = 0
-x=66,y=491, value = 2
+x=66,y=491, value = 0
 x=67,y=491, value = 0
 x=68,y=491, value = 0
 x=69,y=491, value = 0
@@ -51148,7 +51148,7 @@ x=82,y=491, value = 0
 x=83,y=491, value = 0
 x=84,y=491, value = 0
 x=85,y=491, value = 0
-x=86,y=491, value = 2
+x=86,y=491, value = 0
 x=87,y=491, value = 0
 x=88,y=491, value = 0
 x=89,y=491, value = 0
@@ -51218,7 +51218,7 @@ x=48,y=492, value = 0
 x=49,y=492, value = 0
 x=50,y=492, value = 0
 x=51,y=492, value = 0
-x=52,y=492, value = 2
+x=52,y=492, value = 0
 x=53,y=492, value = 0
 x=54,y=492, value = 0
 x=55,y=492, value = 0
@@ -51361,7 +51361,7 @@ x=87,y=493, value = 0
 x=88,y=493, value = 0
 x=89,y=493, value = 0
 x=90,y=493, value = 0
-x=91,y=493, value = 2
+x=91,y=493, value = 0
 x=92,y=493, value = 0
 x=93,y=493, value = 0
 x=94,y=493, value = 0
@@ -51389,7 +51389,7 @@ x=11,y=494, value = 0
 x=12,y=494, value = 0
 x=13,y=494, value = 0
 x=14,y=494, value = 0
-x=15,y=494, value = 2
+x=15,y=494, value = 0
 x=16,y=494, value = 4
 x=17,y=494, value = 0
 x=18,y=494, value = 0
@@ -51712,7 +51712,7 @@ x=22,y=497, value = 0
 x=23,y=497, value = 0
 x=24,y=497, value = 0
 x=25,y=497, value = 0
-x=26,y=497, value = 2
+x=26,y=497, value = 0
 x=27,y=497, value = 0
 x=28,y=497, value = 0
 x=29,y=497, value = 0
@@ -51815,7 +51815,7 @@ x=21,y=498, value = 0
 x=22,y=498, value = 0
 x=23,y=498, value = 0
 x=24,y=498, value = 0
-x=25,y=498, value = 2
+x=25,y=498, value = 0
 x=26,y=498, value = 2
 x=27,y=498, value = 0
 x=28,y=498, value = 0
@@ -51860,7 +51860,7 @@ x=66,y=498, value = 0
 x=67,y=498, value = 1
 x=68,y=498, value = 2
 x=69,y=498, value = 0
-x=70,y=498, value = 2
+x=70,y=498, value = 0
 x=71,y=498, value = 0
 x=72,y=498, value = 0
 x=73,y=498, value = 0
@@ -52028,7 +52028,7 @@ x=26,y=500, value = 0
 x=27,y=500, value = 0
 x=28,y=500, value = 0
 x=29,y=500, value = 3
-x=30,y=500, value = 2
+x=30,y=500, value = 0
 x=31,y=500, value = 2
 x=32,y=500, value = 2
 x=33,y=500, value = 0
@@ -52147,12 +52147,12 @@ x=41,y=501, value = 0
 x=42,y=501, value = 0
 x=43,y=501, value = 0
 x=44,y=501, value = 0
-x=45,y=501, value = 2
+x=45,y=501, value = 0
 x=46,y=501, value = 0
 x=47,y=501, value = 0
 x=48,y=501, value = 0
 x=49,y=501, value = 0
-x=50,y=501, value = 2
+x=50,y=501, value = 0
 x=51,y=501, value = 0
 x=52,y=501, value = 0
 x=53,y=501, value = 3
@@ -52169,7 +52169,7 @@ x=63,y=501, value = 0
 x=64,y=501, value = 0
 x=65,y=501, value = 0
 x=66,y=501, value = 0
-x=67,y=501, value = 2
+x=67,y=501, value = 0
 x=68,y=501, value = 0
 x=69,y=501, value = 0
 x=70,y=501, value = 0
@@ -52280,7 +52280,7 @@ x=70,y=502, value = 0
 x=71,y=502, value = 0
 x=72,y=502, value = 0
 x=73,y=502, value = 2
-x=74,y=502, value = 2
+x=74,y=502, value = 0
 x=75,y=502, value = 0
 x=76,y=502, value = 2
 x=77,y=502, value = 0
@@ -52329,7 +52329,7 @@ x=15,y=503, value = 0
 x=16,y=503, value = 0
 x=17,y=503, value = 0
 x=18,y=503, value = 0
-x=19,y=503, value = 2
+x=19,y=503, value = 0
 x=20,y=503, value = 2
 x=21,y=503, value = 0
 x=22,y=503, value = 0
@@ -52358,7 +52358,7 @@ x=44,y=503, value = 0
 x=45,y=503, value = 0
 x=46,y=503, value = 0
 x=47,y=503, value = 0
-x=48,y=503, value = 2
+x=48,y=503, value = 0
 x=49,y=503, value = 0
 x=50,y=503, value = 0
 x=51,y=503, value = 0
@@ -52367,7 +52367,7 @@ x=53,y=503, value = 0
 x=54,y=503, value = 0
 x=55,y=503, value = 0
 x=56,y=503, value = 0
-x=57,y=503, value = 2
+x=57,y=503, value = 0
 x=58,y=503, value = 0
 x=59,y=503, value = 0
 x=60,y=503, value = 0
@@ -71469,7 +71469,7 @@ x=19,y=687, value = 0
 x=20,y=687, value = 0
 x=21,y=687, value = 0
 x=22,y=687, value = 0
-x=23,y=687, value = 7
+x=23,y=687, value = 0
 x=24,y=687, value = 0
 x=25,y=687, value = 5
 x=26,y=687, value = 0
@@ -73452,7 +73452,7 @@ x=26,y=706, value = 0
 x=27,y=706, value = 0
 x=28,y=706, value = 0
 x=29,y=706, value = 0
-x=30,y=706, value = 7
+x=30,y=706, value = 0
 x=31,y=706, value = 6
 x=32,y=706, value = 0
 x=33,y=706, value = 0
@@ -74023,7 +74023,7 @@ x=77,y=711, value = 0
 x=78,y=711, value = 0
 x=79,y=711, value = 0
 x=80,y=711, value = 0
-x=81,y=711, value = 7
+x=81,y=711, value = 0
 x=82,y=711, value = 0
 x=83,y=711, value = 0
 x=84,y=711, value = 0
@@ -74079,7 +74079,7 @@ x=29,y=712, value = 0
 x=30,y=712, value = 0
 x=31,y=712, value = 0
 x=32,y=712, value = 11
-x=33,y=712, value = 7
+x=33,y=712, value = 0
 x=34,y=712, value = 0
 x=35,y=712, value = 3
 x=36,y=712, value = 0
@@ -74739,7 +74739,7 @@ x=65,y=718, value = 0
 x=66,y=718, value = 0
 x=67,y=718, value = 0
 x=68,y=718, value = 0
-x=69,y=718, value = 7
+x=69,y=718, value = 0
 x=70,y=718, value = 0
 x=71,y=718, value = 0
 x=72,y=718, value = 0
@@ -75322,7 +75322,7 @@ x=24,y=724, value = 0
 x=25,y=724, value = 0
 x=26,y=724, value = 0
 x=27,y=724, value = 0
-x=28,y=724, value = 7
+x=28,y=724, value = 0
 x=29,y=724, value = 3
 x=30,y=724, value = 0
 x=31,y=724, value = 5
@@ -76892,7 +76892,7 @@ x=34,y=739, value = 0
 x=35,y=739, value = 0
 x=36,y=739, value = 0
 x=37,y=739, value = 0
-x=38,y=739, value = 7
+x=38,y=739, value = 0
 x=39,y=739, value = 0
 x=40,y=739, value = 0
 x=41,y=739, value = 0
@@ -80050,7 +80050,7 @@ x=72,y=769, value = 0
 x=73,y=769, value = 0
 x=74,y=769, value = 45
 x=75,y=769, value = 34
-x=76,y=769, value = 7
+x=76,y=769, value = 0
 x=77,y=769, value = 2
 x=78,y=769, value = 0
 x=79,y=769, value = 0
@@ -88941,7 +88941,7 @@ x=19,y=855, value = 3
 x=20,y=855, value = 2
 x=21,y=855, value = 3
 x=22,y=855, value = 0
-x=23,y=855, value = 0
+x=23,y=855, value = 7
 x=24,y=855, value = 12
 x=25,y=855, value = 0
 x=26,y=855, value = 0
@@ -90924,7 +90924,7 @@ x=26,y=874, value = 1
 x=27,y=874, value = 0
 x=28,y=874, value = 0
 x=29,y=874, value = 0
-x=30,y=874, value = 0
+x=30,y=874, value = 7
 x=31,y=874, value = 0
 x=32,y=874, value = 0
 x=33,y=874, value = 0
@@ -91495,7 +91495,7 @@ x=77,y=879, value = 0
 x=78,y=879, value = 0
 x=79,y=879, value = 0
 x=80,y=879, value = 0
-x=81,y=879, value = 0
+x=81,y=879, value = 7
 x=82,y=879, value = 4
 x=83,y=879, value = 0
 x=84,y=879, value = 0
@@ -91551,7 +91551,7 @@ x=29,y=880, value = 0
 x=30,y=880, value = 2
 x=31,y=880, value = 7
 x=32,y=880, value = 0
-x=33,y=880, value = 0
+x=33,y=880, value = 7
 x=34,y=880, value = 2
 x=35,y=880, value = 0
 x=36,y=880, value = 0
@@ -92211,7 +92211,7 @@ x=65,y=886, value = 0
 x=66,y=886, value = 0
 x=67,y=886, value = 0
 x=68,y=886, value = 4
-x=69,y=886, value = 0
+x=69,y=886, value = 7
 x=70,y=886, value = 0
 x=71,y=886, value = 0
 x=72,y=886, value = 0
@@ -92794,7 +92794,7 @@ x=24,y=892, value = 0
 x=25,y=892, value = 5
 x=26,y=892, value = 0
 x=27,y=892, value = 4
-x=28,y=892, value = 0
+x=28,y=892, value = 7
 x=29,y=892, value = 0
 x=30,y=892, value = 2
 x=31,y=892, value = 0
@@ -94364,7 +94364,7 @@ x=34,y=907, value = 0
 x=35,y=907, value = 0
 x=36,y=907, value = 0
 x=37,y=907, value = 0
-x=38,y=907, value = 0
+x=38,y=907, value = 7
 x=39,y=907, value = 0
 x=40,y=907, value = 0
 x=41,y=907, value = 0
@@ -97522,7 +97522,7 @@ x=72,y=937, value = 0
 x=73,y=937, value = 37
 x=74,y=937, value = 0
 x=75,y=937, value = 0
-x=76,y=937, value = 0
+x=76,y=937, value = 7
 x=77,y=937, value = 0
 x=78,y=937, value = 0
 x=79,y=937, value = 0
